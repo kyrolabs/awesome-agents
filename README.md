@@ -1,6 +1,6 @@
 # 🤖 Awesome Agents 
 
-Awesome Agents is a curated list of AI agents.
+Awesome Agents is a curated list of open source AI agents.
 
 ## Langchain Agents
 
