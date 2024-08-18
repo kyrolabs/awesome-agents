@@ -2,6 +2,10 @@
 
 Awesome Agents is a curated list of open source AI agents.
 
+## Frameworks
+
+- [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
+
 ## Software Development
 
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
