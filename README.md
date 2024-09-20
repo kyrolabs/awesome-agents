@@ -108,6 +108,7 @@ Awesome Agents is a curated list of open source AI agents.
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
+- [AI Agent Web Tools](https://github.com/Agent-Tools/ai-agent-web-tools): A list of AI agent tools dedicated for the agent-web interface ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Tools/ai-agent-web-tools?style=social)
 
 ### Multimodal
 
