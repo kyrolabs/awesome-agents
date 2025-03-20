@@ -40,6 +40,7 @@ Awesome Agents is a curated list of open source AI agents.
 - [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration by OpenAI. ![GitHub Repo stars](https://img.shields.io/github/stars/openai/swarm?style=social)
 - [agency-swarm](https://github.com/VRSEN/agency-swarm): Reliable agent framework built on top of the latest OpenAI Assistants API. ![GitHub Repo stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social)
 - [Upsonic](https://github.com/upsonic/upsonic): Reliable agent framework that supports MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
+- [CoreAgent](https://github.com/CoreAgent-Project/CoreAgent): The simplest agent framework out there! ![GitHub Repo stars](https://img.shields.io/github/stars/CoreAgent-Project/CoreAgent?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
