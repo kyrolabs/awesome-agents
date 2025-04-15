@@ -4,9 +4,10 @@ Awesome Agents is a curated list of open source AI agents.
 
 ## Table of Contents
 
-- [Awesome Agents](#awesome-agents)
+- [🤖 Awesome Agents](#-awesome-agents)
   - [Table of Contents](#table-of-contents)
   - [Frameworks](#frameworks)
+  - [Testing and Evaluation](#testing-and-evaluation)
   - [Software Development](#software-development)
   - [Research](#research)
   - [Conversational / General Agents](#conversational--general-agents)
@@ -41,9 +42,11 @@ Awesome Agents is a curated list of open source AI agents.
 - [agency-swarm](https://github.com/VRSEN/agency-swarm): Reliable agent framework built on top of the latest OpenAI Assistants API. ![GitHub Repo stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social)
 - [Upsonic](https://github.com/upsonic/upsonic): Reliable agent framework that supports MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
 - [Mastra](https://github.com/mastra-ai/mastra): Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
+- [Vectara-agentic](https://github.com/vectara/py-vectara-agentic): Vectara-agentic is a framework for creating AI Assistants and agents using Vectara.
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
+- [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
 
 ## Software Development
 
