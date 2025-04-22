@@ -92,6 +92,8 @@ Awesome Agents is a curated list of open source AI agents.
 
 ## Game / Simulation
 
+- [TwinMarket](https://github.com/TobyYang7/TwinMarket): A Scalable Behavioral and Social Simulation for Financial Markets ![GitHub Repo stars](https://img.shields.io/github/stars/TobyYang7/TwinMarket?style=social)
+- [MarS](https://github.com/microsoft/MarS/): A Financial Market Simulation Engine Powered by Generative Foundation Model ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MarS?style=social)
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
