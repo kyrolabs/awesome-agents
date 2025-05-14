@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kyrolabs-awesome-agents-badge.png)](https://mseep.ai/app/kyrolabs-awesome-agents)
+
 # 🤖 Awesome Agents
 
 Awesome Agents is a curated list of open source AI agents.
