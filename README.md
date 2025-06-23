@@ -44,6 +44,8 @@ Awesome Agents is a curated list of open source AI agents.
 - [Mastra](https://github.com/mastra-ai/mastra): Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic): Vectara-agentic is a framework for creating AI Assistants and agents using Vectara.
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) Portia is a new open source agentic Python framework designed for creating reliable agents in production. ![GitHub Repo stars](https://img.shields.io/github/stars/portiaAI/portia-sdk-python?style=social)
+- [AgentDock](https://github.com/AgentDock/AgentDock): Stop wrestling with countless APIs and complex integrations. AgentDock provides the open-source foundation to build, manage, and deploy production-ready AI agents and workflows, frictionlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/agentdock/agentdock?style=social)
+
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
