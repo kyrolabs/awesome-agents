@@ -93,6 +93,7 @@ Awesome Agents is a curated list of open source AI agents.
 - [DuetGPT](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 - [Multi-Modal LangChain agents in Production](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
+- [Autonomous HR Agent](https://github.com/Axle-Bucamp/RH-AutomationAgent/tree/main): A prototype for an enhance HR automation experience, false detection, osint, visualization and Agent system.
 - [LLama Cpp Agent](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
 - [Memgpt](https://github.com/cpacker/memgpt): Create LLM agents with long-term memory and custom tools 📚🦙 ![Github Repo stars](https://img.shields.io/github/stars/cpacker/memgpt?style=social)
 
