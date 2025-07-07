@@ -36,7 +36,6 @@ Awesome Agents is a curated list of open source AI agents.
 - [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)
 - [AgentVerse](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/agentverse?style=social)
 - [Maestro](https://github.com/Doriandarko/maestro): A framework for Claude Opus to intelligently orchestrate subagents. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/maestro?style=social)
-- [Modus](https://github.com/hypermodeinc/modus): An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language).
 - [AgentScope](https://github.com/modelscope/agentscope): Start building LLM-empowered multi-agent applications in an easier way. ![GitHub Repo stars](https://img.shields.io/github/stars/modelscope/agentscope?style=social)
 - [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
 - [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration by OpenAI. ![GitHub Repo stars](https://img.shields.io/github/stars/openai/swarm?style=social)
@@ -46,6 +45,7 @@ Awesome Agents is a curated list of open source AI agents.
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic): Vectara-agentic is a framework for creating AI Assistants and agents using Vectara.
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) Portia is a new open source agentic Python framework designed for creating reliable agents in production. ![GitHub Repo stars](https://img.shields.io/github/stars/portiaAI/portia-sdk-python?style=social)
 - [AgentDock](https://github.com/AgentDock/AgentDock): Stop wrestling with countless APIs and complex integrations. AgentDock provides the open-source foundation to build, manage, and deploy production-ready AI agents and workflows, frictionlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/agentdock/agentdock?style=social)
+- [Modus](https://github.com/hypermodeinc/modus): An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language).
 
 
 ## Testing and Evaluation
