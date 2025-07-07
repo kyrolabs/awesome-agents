@@ -1,6 +1,6 @@
 # 🤖 Awesome Agents
 
-Awesome Agents is a curated list of open source AI agents.
+Awesome Agents is a curated list of open-source tools and products to build AI agents.
 
 ## Table of Contents
 
