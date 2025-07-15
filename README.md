@@ -46,7 +46,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) Portia is a new open source agentic Python framework designed for creating reliable agents in production. ![GitHub Repo stars](https://img.shields.io/github/stars/portiaAI/portia-sdk-python?style=social)
 - [AgentDock](https://github.com/AgentDock/AgentDock): Stop wrestling with countless APIs and complex integrations. AgentDock provides the open-source foundation to build, manage, and deploy production-ready AI agents and workflows, frictionlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/agentdock/agentdock?style=social)
 - [Modus](https://github.com/hypermodeinc/modus): An open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language).
-
+- [Swarms Framework](https://github.com/kyegomez/swarms) Bleeding-Edge Multi-Agent Orchestration Framework for Enterprise Applications ![GitHub Repo stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
