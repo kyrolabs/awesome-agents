@@ -97,6 +97,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot): An autonomous agent that can answer HR related queries autonomously using the tools it has on hand ![GitHub Repo stars](https://img.shields.io/github/stars/stepanogil/autonomous-hr-chatbot?style=social)
 - [LLama Cpp Agent](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
 - [Memgpt](https://github.com/cpacker/memgpt): Create LLM agents with long-term memory and custom tools 📚🦙 ![Github Repo stars](https://img.shields.io/github/stars/cpacker/memgpt?style=social)
+- [GPT Agent](https://github.com/iris-networks/gpt-agent): A powerful GPT-based agent implementation ![GitHub Repo stars](https://img.shields.io/github/stars/iris-networks/gpt-agent?style=social)
 
 ## Game / Simulation
 
