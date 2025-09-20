@@ -138,3 +138,10 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ### Multimodal
 
 - [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+
+
+## Links
+
+<!-- ai-manifest-ref 2025-09-20T13:28:11.346Z -->
+- [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping)
+- [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII; mirroring allowed)
