@@ -86,6 +86,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper): data-to-paper: AI-driven research from data to human-verifiable research papers ![GitHub Repo stars](https://img.shields.io/github/stars/Technion-Kishony-lab/data-to-paper?style=social)
 - [AI Scientist](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)
 - [Storm](https://github.com/stanford-oval/storm): An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. ![GitHub Repo stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)
+- [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 
 ## Conversational / General Agents
 
