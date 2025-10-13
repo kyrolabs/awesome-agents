@@ -54,7 +54,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
-- [GenoTEX](https://github.com/Liu-Hy/GenoTEX): An expert-curated multi-task benchmark for evaluating LLM agents on end-to-end gene expression analysis tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoTEX?style=social)
 
 ## Software Development
 
