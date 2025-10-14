@@ -87,6 +87,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AI Scientist](https://github.com/SakanaAI/AI-Scientist): The AI Scientist: Towards Fully Automated Open-Ended Scientific ![GitHub Repo stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social)
 - [Storm](https://github.com/stanford-oval/storm): An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. ![GitHub Repo stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
+- [GenoMAS](https://github.com/Liu-Hy/GenoMAS): A multi-agent framework for scientific discovery that automates gene expression analysis through code-driven workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
 
 ## Conversational / General Agents
 
