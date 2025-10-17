@@ -91,7 +91,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Conversational / General Agents
 
-- [Cache-to-Cache (C2C)](https://github.com/thu-nics/C2C): A novel paradigm for direct semantic communication between LLMs via KV-Cache, enabling multi-agent systems to communicate without text intermediation. ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
+- [Cache-to-Cache](https://github.com/thu-nics/C2C): A novel paradigm for direct semantic communication between LLMs via KV-Cache, enabling multi-agent systems to communicate without text intermediation. ![GitHub Repo stars](https://img.shields.io/github/stars/thu-nics/C2C?style=social)
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 - [SuperAgent](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
