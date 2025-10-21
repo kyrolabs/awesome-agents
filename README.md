@@ -49,6 +49,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Swarms Framework](https://github.com/kyegomez/swarms) Bleeding-Edge Multi-Agent Orchestration Framework for Enterprise Applications ![GitHub Repo stars](https://img.shields.io/github/stars/kyegomez/swarms?style=social)
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python): A model-driven approach to building AI agents in just a few lines of code. ![GitHub Repo stars](https://img.shields.io/github/stars/strands-agents/sdk-python?style=social)
 - [AgentUp](https://github.com/RedDotRocket/AgentUp): Designed with security, scalability, and extensibility at its foundation, AgentUp streamlines development through a configuration-driven architecture and rich plugin ecosystem ![GitHub Repo stars](https://img.shields.io/github/stars/RedDotRocket/AgentUp?style=social)
+- [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. ![GitHub Repo stars](https://img.shields.io/github/stars/voltagent/voltagent?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
