@@ -57,6 +57,11 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
+- [Future AGI](https://github.com/future-agi/ai-evaluation): Open-source multimodal evaluation framework for automated scoring, smart templates, safety checks, groundedness assessments, and agent workflow evaluation across text, image, and audio. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social)
+- [simulate-sdk](https://github.com/future-agi/simulate-sdk): Open-source Voice AI simulation toolkit by Future AGI for stress-testing and validating conversational and voice agents in realistic, scenario-driven environments. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/simulate-sdk?style=social)
+
+
+
 
 ## Software Development
 
@@ -82,6 +87,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Vision agent](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
 - [Nous](https://github.com/TrafficGuard/nous): TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. ![GitHub Repo stars](https://img.shields.io/github/stars/TrafficGuard/nous?style=social)
 - [Cline](https://github.com/cline/cline): Open-source AI coding agent giving developers direct access to frontier models with full transparency. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
+- [traceAI](https://github.com/future-agi/traceAI): Open-source AI tracing and observability framework built on OpenTelemetry for debugging, monitoring, and analyzing LLM and agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)
+
 
 ## Research
 
@@ -93,6 +100,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS): A multi-agent framework for scientific discovery that automates gene expression analysis through code-driven workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
+
 
 ## Conversational / General Agents
 
