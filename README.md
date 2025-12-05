@@ -83,6 +83,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Vision agent](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
 - [Nous](https://github.com/TrafficGuard/nous): TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. ![GitHub Repo stars](https://img.shields.io/github/stars/TrafficGuard/nous?style=social)
 - [Cline](https://github.com/cline/cline): Open-source AI coding agent giving developers direct access to frontier models with full transparency. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
+- [OpenCode](https://github.com/sst/opencode): The AI coding agent built for the terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode?style=social)
 
 ## Research
 
