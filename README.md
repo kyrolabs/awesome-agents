@@ -50,7 +50,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Strands Agents SDK](https://github.com/strands-agents/sdk-python): A model-driven approach to building AI agents in just a few lines of code. ![GitHub Repo stars](https://img.shields.io/github/stars/strands-agents/sdk-python?style=social)
 - [AgentUp](https://github.com/RedDotRocket/AgentUp): Designed with security, scalability, and extensibility at its foundation, AgentUp streamlines development through a configuration-driven architecture and rich plugin ecosystem ![GitHub Repo stars](https://img.shields.io/github/stars/RedDotRocket/AgentUp?style=social)
 - [VoltAgent](https://github.com/VoltAgent/voltagent) - An open source TypeScript Framework for building AI agents with built-in LLM observability. ![GitHub Repo stars](https://img.shields.io/github/stars/voltagent/voltagent?style=social)
-- [Agentic Context Engine](https://github.com/kayba-ai/agentic-context-engine): Self-improving agents that learn from execution feedback. LangChain integration for agents that curate their own context. ![GitHub Repo stars](https://img.shields.io/github/stars/kayba-ai/agentic-context-engine?style=social)
+- [Agentic Context Engine](https://github.com/kayba-ai/agentic-context-engine): Self-improving agents that› learn from execution feedback. LangChain integration for agents that curate their own context. ![GitHub Repo stars](https://img.shields.io/github/stars/kayba-ai/agentic-context-engine?style=social)
 - [Astron](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 - [Ailoy](https://github.com/brekkylab/ailoy): A comprehensive framework for building AI agents that run anywhere, with full local-AI and WASM support.
 
@@ -58,9 +58,9 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
+- [Financial-Reasoning Agent Evaluation Template](https://github.com/bdschi1/llm-finance-evals/blob/main/open-source-prs/awesome-agents/financial-reasoning-agent-eval-template.md): PM/analyst-grade rubric and task set for evaluating agents on earnings analysis, risk identification, and portfolio sanity-check workflows.
 
 ## Software Development
-
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): 🙌 OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
