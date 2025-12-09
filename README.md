@@ -84,6 +84,12 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Nous](https://github.com/TrafficGuard/nous): TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. ![GitHub Repo stars](https://img.shields.io/github/stars/TrafficGuard/nous?style=social)
 - [Cline](https://github.com/cline/cline): Open-source AI coding agent giving developers direct access to frontier models with full transparency. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [OpenCode](https://github.com/sst/opencode): The AI coding agent built for the terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode?style=social)
+- [Gemini Cli](https://github.com/google-gemini/gemini-cli): A CLI for YOU to talk to Google Gemini ("chat" mode), and a CLI for YOU to talk to your code with Google Gemini ("code" mode). ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)
+- [Qwen Code](https://github.com/QwenLM/qwen-code): A command-line interface (CLI) for the Qwen-Coder models. ![GitHub Repo stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social)
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code): The dev team of AI agents in your code editor. ![GitHub Repo stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social)
+- [Trae Agent](https://github.com/bytedance/trae-agent): Trae is a framework for building and running software engineering agents. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social)
+- [Kilo Code](https://github.com/Kilo-Org/kilocode): Kilo is a command-line tool that allows you to chat with your codebase and perform various actions on it, such as creating new files or modifying existing ones. ![GitHub Repo stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social)
+- [Coro Code](https://github.com/Blushyes/coro-code): A lightweight CLI tool for generating code from conversational-style prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/Blushyes/coro-code?style=social)
 
 ## Research
 
