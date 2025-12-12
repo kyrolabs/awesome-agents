@@ -19,6 +19,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [ADK-Rust](https://github.com/zavora-ai/adk-rust): Production-ready AI agent development kit for Rust. Model-agnostic (Gemini, OpenAI, Anthropic, DeepSeek), multiple agent types (LLM, Graph, Workflow, Realtime), MCP support, and built-in telemetry. ![GitHub Repo stars](https://img.shields.io/github/stars/zavora-ai/adk-rust?style=social)
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
