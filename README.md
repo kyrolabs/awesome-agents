@@ -86,6 +86,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Cline](https://github.com/cline/cline): Open-source AI coding agent giving developers direct access to frontier models with full transparency. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [OpenCode](https://github.com/sst/opencode): The AI coding agent built for the terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode?style=social)
 - [Stakpak](https://github.com/stakpak/agent): Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/stakpak/agent?style=social)
+- [Turbostream](https://github.com/turboline-ai/turbostream): TurboStream is an open-source terminal UI for monitoring high-velocity WebSocket streams and selectively analyzing them with LLMs in real time.
 
 ## Research
 
