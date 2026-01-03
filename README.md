@@ -150,3 +150,5 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ### Multimodal
 
 - [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+
+* [Vedika](https://vedika.io) - AI astrology agent platform
