@@ -54,6 +54,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Astron](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 - [Ailoy](https://github.com/brekkylab/ailoy): A comprehensive framework for building AI agents that run anywhere, with full local-AI and WASM support.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, workflows, memory, and both Python & JavaScript SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
+- [Cortex Memory(https://github.com/sopaco/cortex-mem)] - A complete solution for agent memory, from extraction and vector search to automated optimization, with a REST API, MCP, CLI, and insights dashboard out-of-the-box.
 - [Summoner](https://github.com/Summoner-Network/summoner-agents): Agent-to-agent networking stack (Python SDK + Rust relay) for server-decoupled agents over long-lived TCP sessions. Includes 50+ runnable agent templates, with API integrations (including MCP) and orchestration framework adapters (e.g., LangChain/CrewAI). ![Summoner](https://img.shields.io/github/stars/Summoner-Network?style=social)
 
 
@@ -103,6 +104,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS): A multi-agent framework for scientific discovery that automates gene expression analysis through code-driven workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
+- [Litho](https://github.com/sopaco/deepwiki-rs): Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 
 ## Conversational / General Agents
 
