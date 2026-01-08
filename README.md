@@ -94,6 +94,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenCode](https://github.com/sst/opencode): The AI coding agent built for the terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode?style=social)
 - [Stakpak](https://github.com/stakpak/agent): Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/stakpak/agent?style=social)
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
+- [Sugar](https://github.com/roboticforce/sugar): AI-powered autonomous development system with persistent task queue, test-driven execution, and specialized agent routing. ![GitHub Repo stars](https://img.shields.io/github/stars/roboticforce/sugar?style=social)
 
 ## Research
 
