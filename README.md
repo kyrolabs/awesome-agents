@@ -92,6 +92,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Nous](https://github.com/TrafficGuard/nous): TypeScript AI agent platform with Autonomous agents, Software developer agents, AI code review agents and more. ![GitHub Repo stars](https://img.shields.io/github/stars/TrafficGuard/nous?style=social)
 - [Cline](https://github.com/cline/cline): Open-source AI coding agent giving developers direct access to frontier models with full transparency. ![GitHub Repo stars](https://img.shields.io/github/stars/cline/cline?style=social)
 - [OpenCode](https://github.com/sst/opencode): The AI coding agent built for the terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode?style=social)
+- [Chunkhound](https://github.com/chunkhound/chunkhound): Code base indexing and research cli app. Provides semantic search tool for AI Agent. ![GitHub Repo stars](https://img.shields.io/github/stars/chunkhound/chunkhound?style=social)
 - [Stakpak](https://github.com/stakpak/agent): Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/stakpak/agent?style=social)
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
 - [Sugar](https://github.com/roboticforce/sugar): AI-powered autonomous development system with persistent task queue, test-driven execution, and specialized agent routing. ![GitHub Repo stars](https://img.shields.io/github/stars/roboticforce/sugar?style=social)
@@ -136,6 +137,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Local GPT](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
 - [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app to dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+
 
 ## Automation
 
