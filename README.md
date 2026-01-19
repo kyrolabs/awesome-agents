@@ -59,6 +59,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Summoner](https://github.com/Summoner-Network/summoner-agents): Agent-to-agent networking stack (Python SDK + Rust relay) for server-decoupled agents over long-lived TCP sessions. Includes 50+ runnable agent templates, with API integrations (including MCP) and orchestration framework adapters (e.g., LangChain/CrewAI). ![Summoner](https://img.shields.io/github/stars/Summoner-Network?style=social)
 - [LoongFlow](https://github.com/baidu-baige/LoongFlow): A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents ![GitHub Repo stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=social)
 - [KodeAgent](https://github.com/barun-saha/kodeagent): The Minimal Agent Engine. It is a frameworkless, minimalistic approach to building AI agents (ReAct and CodeAct), together with code sandbox and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
+- [KAOS](https://github.com/axsaucedo/kaos): A framework to deploy and manage large scale multi-agent systems in Kubernetes (supports MCP Tools, Hosted/Proxy ModelAPIs, Memory, etc) ![GitHub Repo stars](https://img.shields.io/github/stars/axsaucedo/kaos?style=social)
+
 
 
 ## Testing and Evaluation
