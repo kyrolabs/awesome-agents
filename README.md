@@ -59,7 +59,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Summoner](https://github.com/Summoner-Network/summoner-agents): Agent-to-agent networking stack (Python SDK + Rust relay) for server-decoupled agents over long-lived TCP sessions. Includes 50+ runnable agent templates, with API integrations (including MCP) and orchestration framework adapters (e.g., LangChain/CrewAI). ![Summoner](https://img.shields.io/github/stars/Summoner-Network?style=social)
 - [LoongFlow](https://github.com/baidu-baige/LoongFlow): A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents ![GitHub Repo stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=social)
 - [KodeAgent](https://github.com/barun-saha/kodeagent): The Minimal Agent Engine. It is a frameworkless, minimalistic approach to building AI agents (ReAct and CodeAct), together with code sandbox and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
-
+- [Pydantic-Collab](https://github.com/boazkatzir/pydantic-collab): A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations with shared memory and Logfire observability. ![GitHub Repo stars](https://img.shields.io/github/stars/boazkatzir/pydantic-collab?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
