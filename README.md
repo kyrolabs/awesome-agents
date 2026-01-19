@@ -157,6 +157,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
+- [Openwork](https://github.com/accomplish-ai/openwork): MIT-licensed, open alternative to Anthropic's Cowork. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [WebQA-Agent](https://github.com/MigoXLab/webqa-agent/tree/main): Autonomous web agent that audits performance, functionality & UX for any web product ![GitHub Repo stars](https://img.shields.io/github/stars/MigoXLab/webqa-agent?style=social)
 
 ### Multimodal
