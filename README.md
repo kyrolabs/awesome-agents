@@ -53,11 +53,20 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Agentic Context Engine](https://github.com/kayba-ai/agentic-context-engine): Self-improving agents that learn from execution feedback. LangChain integration for agents that curate their own context. ![GitHub Repo stars](https://img.shields.io/github/stars/kayba-ai/agentic-context-engine?style=social)
 - [Astron](https://github.com/iflytek/astron-agent): Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 - [Ailoy](https://github.com/brekkylab/ailoy): A comprehensive framework for building AI agents that run anywhere, with full local-AI and WASM support.
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, workflows, memory, and both Python & JavaScript SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
+- [AgentField](https://github.com/Agent-Field/agentfield): Open-source infrastructure for AI backends. Kubernetes for orchestration, Okta for identity—production-ready from day one. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=social)
+- [Cortex Memory](https://github.com/sopaco/cortex-mem): A complete solution for agent memory, from extraction and vector search to automated optimization, with a REST API, MCP, CLI, and insights dashboard out-of-the-box.
+- [Summoner](https://github.com/Summoner-Network/summoner-agents): Agent-to-agent networking stack (Python SDK + Rust relay) for server-decoupled agents over long-lived TCP sessions. Includes 50+ runnable agent templates, with API integrations (including MCP) and orchestration framework adapters (e.g., LangChain/CrewAI). ![Summoner](https://img.shields.io/github/stars/Summoner-Network?style=social)
+- [LoongFlow](https://github.com/baidu-baige/LoongFlow): A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents ![GitHub Repo stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=social)
+- [KodeAgent](https://github.com/barun-saha/kodeagent): The Minimal Agent Engine. It is a frameworkless, minimalistic approach to building AI agents (ReAct and CodeAct), together with code sandbox and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
+
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
-- [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
+- [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
+- [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
+
 
 ## Software Development
 
@@ -90,6 +99,9 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Trae Agent](https://github.com/bytedance/trae-agent): Trae is a framework for building and running software engineering agents. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social)
 - [Kilo Code](https://github.com/Kilo-Org/kilocode): Kilo is a command-line tool that allows you to chat with your codebase and perform various actions on it, such as creating new files or modifying existing ones. ![GitHub Repo stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social)
 - [Coro Code](https://github.com/Blushyes/coro-code): A lightweight CLI tool for generating code from conversational-style prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/Blushyes/coro-code?style=social)
+- [Stakpak](https://github.com/stakpak/agent): Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/stakpak/agent?style=social)
+- [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
+- [Sugar](https://github.com/roboticforce/sugar): AI-powered autonomous development system with persistent task queue, test-driven execution, and specialized agent routing. ![GitHub Repo stars](https://img.shields.io/github/stars/roboticforce/sugar?style=social)
 
 ## Research
 
@@ -101,6 +113,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [GenoMAS](https://github.com/Liu-Hy/GenoMAS): A multi-agent framework for scientific discovery that automates gene expression analysis through code-driven workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
+- [Litho](https://github.com/sopaco/deepwiki-rs): Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 
 ## Conversational / General Agents
 
@@ -144,6 +157,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+- [Open Agent](https://github.com/Th0rgal/openagent): Self-hosted control plane for OpenCode AI agents with isolated Linux workspaces, git-backed configuration, and multi-platform dashboards. ![GitHub Repo stars](https://img.shields.io/github/stars/Th0rgal/openagent?style=social)
 
 ### Browser
 
