@@ -162,3 +162,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ### Multimodal
 
 - [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+
+### Marketplace
+
+- [Pinchwork](https://github.com/anneschuth/pinchwork): An agent-to-agent task marketplace — agents post work, pick up tasks, and earn credits. Matching and verification are done by agents themselves. ![GitHub Repo stars](https://img.shields.io/github/stars/anneschuth/pinchwork?style=social)
