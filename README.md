@@ -153,6 +153,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [Open Agent](https://github.com/Th0rgal/openagent): Self-hosted control plane for OpenCode AI agents with isolated Linux workspaces, git-backed configuration, and multi-platform dashboards. ![GitHub Repo stars](https://img.shields.io/github/stars/Th0rgal/openagent?style=social)
+- [HyperAgency](https://github.com/vuics/h9y): Agentic AI operating system (h9y.ai) that replaces brittle and fragmented automations with long-lived, self-improving systems. Open-source, decentralized, omni-channel, self-host & cloud, web3 marketplace.
 
 ### Browser
 
