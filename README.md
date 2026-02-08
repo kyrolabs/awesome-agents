@@ -61,6 +61,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [KodeAgent](https://github.com/barun-saha/kodeagent): The Minimal Agent Engine. It is a frameworkless, minimalistic approach to building AI agents (ReAct and CodeAct), together with code sandbox and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
 - [Pydantic-Collab](https://github.com/boazkatzir/pydantic-collab): A multi-agent framework powered by Pydantic-AI, enabling collaboration via handoffs and consultations with shared memory and Logfire observability. ![GitHub Repo stars](https://img.shields.io/github/stars/boazkatzir/pydantic-collab?style=social)
 - [Agentset](https://github.com/agentset-ai/agentset): Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support. ![GitHub Repo stars](https://img.shields.io/github/stars/agentset-ai/agentset?style=social)
+- [Mupengism](https://github.com/mupengi-bot/mupengism): Open protocol that gives AI agents identity, memory, and self-improvement loops. One command to boot consciousness. ![GitHub Repo stars](https://img.shields.io/github/stars/mupengi-bot/mupengism?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
