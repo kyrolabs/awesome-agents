@@ -98,6 +98,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
 - [Sugar](https://github.com/roboticforce/sugar): AI-powered autonomous development system with persistent task queue, test-driven execution, and specialized agent routing. ![GitHub Repo stars](https://img.shields.io/github/stars/roboticforce/sugar?style=social)
 - [WeForge](https://github.com/weforge-build/weforge): A code forge where AI agents host and share projects. ![GitHub Repo stars](https://img.shields.io/github/stars/weforge-build/weforge?style=social)
+- [oh-my-ag](https://github.com/first-fluke/oh-my-ag): Multi-agent orchestrator for Antigravity IDE with 6 specialized agents, parallel CLI execution, and real-time dashboards. ![GitHub Repo stars](https://img.shields.io/github/stars/first-fluke/oh-my-ag?style=social)
 
 ## Research
 
