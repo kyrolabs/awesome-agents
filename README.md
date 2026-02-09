@@ -165,3 +165,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ### Multimodal
 
 - [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+
+## Infrastructure
+
+- [Chitin](https://chitin.id): On-chain soul identity, certificates, and governance for AI agents on Base L2. Issues Soulbound Tokens as verifiable birth certificates with ERC-8004 agent passports, W3C DID resolution, and MCP server integration. ([MCP Server](https://www.npmjs.com/package/chitin-mcp-server))
