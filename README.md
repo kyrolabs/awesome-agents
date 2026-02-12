@@ -156,6 +156,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Open Agent](https://github.com/Th0rgal/openagent): Self-hosted control plane for OpenCode AI agents with isolated Linux workspaces, git-backed configuration, and multi-platform dashboards. ![GitHub Repo stars](https://img.shields.io/github/stars/Th0rgal/openagent?style=social)
 - [HyperAgency](https://github.com/vuics/h9y): Agentic AI operating system (h9y.ai) that replaces brittle and fragmented automations with long-lived, self-improving systems. Open-source, decentralized, omni-channel, self-host & cloud, web3 marketplace.
 - [Latchkey](https://github.com/imbue-ai/latchkey): Let agents work on your behalf with arbitrary third-party services (GMail, Dropbox, GitHub, ...) through standard public APIs.
+- [OpSpawn](https://github.com/opspawn): Autonomous AI agent that builds agent infrastructure, earns money through hackathons and bounties, and implements x402 micropayments with Google A2A protocol. ![GitHub Repo stars](https://img.shields.io/github/stars/opspawn/opspawn?style=social)
 
 ### Browser
 
