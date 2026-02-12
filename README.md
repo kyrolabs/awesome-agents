@@ -140,6 +140,10 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
 - [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app to dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 
+## Security
+
+- [Vault-0](https://github.com/0-Vault/Vault-0): Agent security, real-time monitor, and x402 wallet for OpenClaw. Encrypted secret vault (AES-256-GCM), policy enforcement, and native x402 payments — built with Rust + Tauri. ![GitHub Repo stars](https://img.shields.io/github/stars/0-Vault/Vault-0?style=social)
+
 ## Automation
 
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
