@@ -67,6 +67,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
+- [Gait](https://github.com/davidahmann/gait): OSS Go CLI for signed agent runpacks (verify, deterministic stub replay, diff), CI regressions, and policy-gated high-risk tool calls. ![GitHub Repo stars](https://img.shields.io/github/stars/davidahmann/gait?style=social)
 
 
 ## Software Development
