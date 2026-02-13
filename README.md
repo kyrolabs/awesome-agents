@@ -115,6 +115,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Conversational / General Agents
 
+- [OpenClaw](https://openclaw.ai) - Self-hosted AI assistant with multi-channel support (WhatsApp, Telegram, Discord, Slack) and persistent memory.
+
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 - [SuperAgent](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
