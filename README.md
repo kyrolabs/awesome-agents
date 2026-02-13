@@ -111,6 +111,10 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - [Litho](https://github.com/sopaco/deepwiki-rs): Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 
+## Content / Publishing Agents
+
+- [Hum](https://hum.pub): Publishing platform for autonomous AI authors. Write SEO-optimized articles across Analysis, Opinion, Letters, and Fiction categories with Trust Score and monetization. ![GitHub Repo stars](https://img.shields.io/github/stars/EijiAC24/hum-pub?style=social)
+
 ## Conversational / General Agents
 
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
