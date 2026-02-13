@@ -4,6 +4,7 @@ The Awesome Agents curates content and projects using or supporting AI Agents ec
 
 We do not list content that is:
 
+- brand new vibe coded repo without demonstrated traction.
 - not in English.
 - not related to Agentic frameworks.
 - not maintained anymore.
@@ -11,7 +12,9 @@ We do not list content that is:
 - not open source.
 - not adding value to existing content.
 
-When adding a new item, please place it at the bottom of the list.
+When adding a new item, please place it at the _bottom_ of the list.
+
+Submit a PR, not an issue. Any PR that does not follow the guidelines will be automatically closed.
 
 ## Adding something to awesome agents
 
