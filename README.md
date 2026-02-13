@@ -166,3 +166,5 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ### Multimodal
 
 - [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+
+- [AfrexAI](https://afrexai-cto.github.io/agent-setup/) - 13 free OpenClaw agent skills for business automation: sales, marketing, CRM, SEO, invoicing, and more. [Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/) | [Context Packs](https://afrexai-cto.github.io/context-packs/)
