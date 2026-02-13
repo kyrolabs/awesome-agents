@@ -56,6 +56,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI): Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, workflows, memory, and both Python & JavaScript SDKs. ![GitHub Repo stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social)
 - [AgentField](https://github.com/Agent-Field/agentfield): Open-source infrastructure for AI backends. Kubernetes for orchestration, Okta for identity—production-ready from day one. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=social)
 - [Cortex Memory](https://github.com/sopaco/cortex-mem): A complete solution for agent memory, from extraction and vector search to automated optimization, with a REST API, MCP, CLI, and insights dashboard out-of-the-box.
+- [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
 - [Summoner](https://github.com/Summoner-Network/summoner-agents): Agent-to-agent networking stack (Python SDK + Rust relay) for server-decoupled agents over long-lived TCP sessions. Includes 50+ runnable agent templates, with API integrations (including MCP) and orchestration framework adapters (e.g., LangChain/CrewAI). ![Summoner](https://img.shields.io/github/stars/Summoner-Network?style=social)
 - [LoongFlow](https://github.com/baidu-baige/LoongFlow): A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents ![GitHub Repo stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=social)
 - [KodeAgent](https://github.com/barun-saha/kodeagent): The Minimal Agent Engine. It is a frameworkless, minimalistic approach to building AI agents (ReAct and CodeAct), together with code sandbox and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/barun-saha/kodeagent?style=social)
@@ -164,6 +165,3 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [WebQA-Agent](https://github.com/MigoXLab/webqa-agent/tree/main): Autonomous web agent that audits performance, functionality & UX for any web product ![GitHub Repo stars](https://img.shields.io/github/stars/MigoXLab/webqa-agent?style=social)
 
-### Multimodal
-
-- [Pipecat](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
