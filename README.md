@@ -146,6 +146,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+- [httpay.xyz](https://httpay.xyz): x402 micropayment API marketplace — 124+ pay-per-call endpoints for AI agents on Base, powered by the HTTP 402 protocol. ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhttpay.xyz)
 
 ### Browser
 
