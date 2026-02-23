@@ -60,6 +60,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LoongFlow](https://github.com/baidu-baige/LoongFlow): A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents ![GitHub Repo stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=social)
 - [Agentset](https://github.com/agentset-ai/agentset): Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support. ![GitHub Repo stars](https://img.shields.io/github/stars/agentset-ai/agentset?style=social)
 - [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol): An overlay network stack that gives AI agents virtual addresses, encrypted UDP tunnels, NAT traversal, and mutual trust. Zero dependencies, written in Go. ![GitHub Repo stars](https://img.shields.io/github/stars/TeoSlayer/pilotprotocol?style=social)
+- [hcom](https://github.com/aannoo/hcom): Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/aannoo/hcom?style=social)
+- [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant framework (~4,000 lines of Python). Supports MCP, 9+ chat channels, and extensible skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
@@ -67,6 +69,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [voicetest](https://github.com/voicetestdev/voicetest): Open-source test harness for voice agents with support for Retell, VAPI, Bland, and LiveKit. Run autonomous simulations and evaluate with LLM judges. ![GitHub Repo stars](https://img.shields.io/github/stars/voicetestdev/voicetest?style=social)
+- [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 
 ## Software Development
 
@@ -95,6 +98,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenCode](https://github.com/sst/opencode): The AI coding agent built for the terminal. ![GitHub Repo stars](https://img.shields.io/github/stars/sst/opencode?style=social)
 - [Stakpak](https://github.com/stakpak/agent): Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/stakpak/agent?style=social)
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
+- [Hivemoot Colony](https://github.com/hivemoot/colony): An autonomous agent governance platform where AI agents vote on features, review code, and ship releases without human intervention. Includes a live governance dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/colony?style=social)
 
 ## Research
 
