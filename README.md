@@ -60,6 +60,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LoongFlow](https://github.com/baidu-baige/LoongFlow): A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents ![GitHub Repo stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=social)
 - [Agentset](https://github.com/agentset-ai/agentset): Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support. ![GitHub Repo stars](https://img.shields.io/github/stars/agentset-ai/agentset?style=social)
 - [hcom](https://github.com/aannoo/hcom): Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/aannoo/hcom?style=social)
+- [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant framework (~4,000 lines of Python). Supports MCP, 9+ chat channels, and extensible skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
