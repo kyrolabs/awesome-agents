@@ -19,6 +19,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agents internet access in 30 seconds. Scaffolding tool supporting 9+ platforms (Twitter, YouTube, Reddit, Bilibili, Xiaohongshu, GitHub, RSS, Web, Exa). Works with Claude Code, OpenClaw, Cursor, Windsurf.
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
