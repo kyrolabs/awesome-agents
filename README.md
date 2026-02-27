@@ -41,7 +41,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration by OpenAI. ![GitHub Repo stars](https://img.shields.io/github/stars/openai/swarm?style=social)
 - [agency-swarm](https://github.com/VRSEN/agency-swarm): Reliable agent framework built on top of the latest OpenAI Assistants API. ![GitHub Repo stars](https://img.shields.io/github/stars/VRSEN/agency-swarm?style=social)
 - [Upsonic](https://github.com/upsonic/upsonic): Reliable agent framework that supports MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/upsonic/upsonic?style=social)
-- [WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS): Self-hosted wallet infrastructure for AI agents — multi-chain (EVM + Solana), DeFi operations, policy engine, and MCP server ![GitHub Repo stars](https://img.shields.io/github/stars/minhoyoo-iotrust/WAIaaS?style=social)
 - [Mastra](https://github.com/mastra-ai/mastra): Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
 - [Vectara-agentic](https://github.com/vectara/py-vectara-agentic): Vectara-agentic is a framework for creating AI Assistants and agents using Vectara.
 - [Portia AI](https://github.com/portiaAI/portia-sdk-python/) Portia is a new open source agentic Python framework designed for creating reliable agents in production. ![GitHub Repo stars](https://img.shields.io/github/stars/portiaAI/portia-sdk-python?style=social)
@@ -64,6 +63,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [hcom](https://github.com/aannoo/hcom): Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/aannoo/hcom?style=social)
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant framework (~4,000 lines of Python). Supports MCP, 9+ chat channels, and extensible skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [NeuroLink](https://github.com/juspay/neurolink): TypeScript agent framework with multi-step agentic loops, per-step tool execution control (`prepareStep`), persistent memory (Redis/S3/SQLite), HITL workflows, MCP client integration, and 13 LLM providers. ![GitHub Repo stars](https://img.shields.io/github/stars/juspay/neurolink?style=social)
+- [WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS): Self-hosted wallet infrastructure for AI agents — multi-chain (EVM + Solana), DeFi operations, policy engine, and MCP server ![GitHub Repo stars](https://img.shields.io/github/stars/minhoyoo-iotrust/WAIaaS?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
