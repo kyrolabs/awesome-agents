@@ -114,6 +114,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Conversational / General Agents
 
+- [AnchorBrowser](https://anchorbrowser.io) [![Stars](https://img.shields.io/github/stars/anchorbrowser/anchorbrowser?style=flat)](https://github.com/anchorbrowser/anchorbrowser): Cloud browser platform for AI agents — managed Chromium instances accessible via WebSocket/CDP or Playwright/Puppeteer, with enterprise-grade anti-detection, automatic CAPTCHA solving, proxy rotation, persistent sessions, and a native MCP server. Free tier: 5 concurrent browsers
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 - [SuperAgent](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
