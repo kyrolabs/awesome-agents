@@ -158,3 +158,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 
+
+## Infrastructure & APIs
+
+- [Agent Gateway](https://agent-gateway-kappa.vercel.app): One API key unlocking 39 production-ready services for AI agents — wallets, persistent memory, sandboxed code execution, scheduling, webhooks, DeFi data, and more. USDC payments on Base. MCP-compatible.
