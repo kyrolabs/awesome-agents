@@ -64,6 +64,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant framework (~4,000 lines of Python). Supports MCP, 9+ chat channels, and extensible skills system. ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social)
 - [NeuroLink](https://github.com/juspay/neurolink): TypeScript agent framework with multi-step agentic loops, per-step tool execution control (`prepareStep`), persistent memory (Redis/S3/SQLite), HITL workflows, MCP client integration, and 13 LLM providers. ![GitHub Repo stars](https://img.shields.io/github/stars/juspay/neurolink?style=social)
 
+- [Governance-Guard](https://github.com/MetaCortex-Dynamics/governance-guard): Structural authority separation for autonomous AI agents. Deterministic PROPOSE/DECIDE/PROMOTE pipeline with YAML policy engine (no LLM), hash-chained witness log, zero runtime dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/MetaCortex-Dynamics/governance-guard?style=social)
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
