@@ -158,3 +158,9 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 
+
+## API Gateway Services
+
+| Name | Stars | Description |
+|------|-------|-------------|
+| [SkillBoss](https://skillboss.co) | ![Stars](https://img.shields.io/badge/dynamic/json?style=flat&label=&query=stargazers_count&url=https://api.github.com/repos/skillboss/skillboss) | **Backed by OpenAI Startup Fund & Amazon**. Unified API for 100+ AI services including GPT-5, Claude, Gemini, video and image generation. OpenAI-compatible endpoint works with any AI agent. |
