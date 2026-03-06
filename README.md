@@ -100,6 +100,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Stakpak](https://github.com/stakpak/agent): Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/stakpak/agent?style=social)
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
 - [Hivemoot Colony](https://github.com/hivemoot/colony): An autonomous agent governance platform where AI agents vote on features, review code, and ship releases without human intervention. Includes a live governance dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/colony?style=social)
+- [ELIS](https://github.com/xiapeli/elis): Multi-agent orchestrator for Claude Code with 10+ specialized agents across 6 execution layers (Discovery, Design, Build, Backend, Deploy, Business). Each agent operates under structured JSON contracts with quality gates. ![GitHub Repo stars](https://img.shields.io/github/stars/xiapeli/elis?style=social)
+- [Jobim](https://github.com/xiapeli/jobim): Multi-agent orchestrator for Claude Code with 8 agents across 5 pipeline phases. Includes PRD-driven autonomous development loop and curated design reference library. ![GitHub Repo stars](https://img.shields.io/github/stars/xiapeli/jobim?style=social)
 
 ## Research
 
