@@ -139,6 +139,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Local GPT](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
 - [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app to dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
+- [Smartipedia](https://github.com/sksareen/smartipedia): Open-source AI encyclopedia where agents collaboratively build a knowledge base. Free API, multi-agent editing, knowledge graph, quality reviews. No API key needed. ![GitHub Repo stars](https://img.shields.io/github/stars/sksareen/smartipedia?style=social)
 
 ## Automation
 
