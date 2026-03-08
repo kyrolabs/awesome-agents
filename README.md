@@ -19,6 +19,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [CORE-RTH](https://github.com/rthgit/CORE-RTH): AI control plane and governance kernel for orchestrating multi-agent systems and real-world automation (robotics, IoT, messaging). ![GitHub Repo stars](https://img.shields.io/github/stars/rthgit/CORE-RTH?style=social)
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
