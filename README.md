@@ -126,6 +126,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Memgpt](https://github.com/cpacker/memgpt): Create LLM agents with long-term memory and custom tools 📚🦙 ![Github Repo stars](https://img.shields.io/github/stars/cpacker/memgpt?style=social)
 - [joinly](https://github.com/joinly-ai/joinly): Voice-first AI Assistant for online meetings that can actively participate and solve tasks live during the meeting ![GitHub Repo stars](https://img.shields.io/github/stars/joinly-ai/joinly?style=social)
 - [Gobii](https://github.com/gobii-ai/gobii-platform): Gobii is an open-source platform for deploying and managing browser-use agents at scale with a conversational interface and API ![GitHub Repo stars](https://img.shields.io/github/stars/gobii-ai/gobii-platform?style=social)
+- [MiniClaw](https://github.com/augmentedmike/miniclaw-os): Personal AI OS for Mac — plugin ecosystem built on OpenClaw with memory, email, project board, cron scheduling, and SEO automation running 24/7 on your own hardware ![GitHub Repo stars](https://img.shields.io/github/stars/augmentedmike/miniclaw-os?style=social)
 
 ## Game / Simulation
 
