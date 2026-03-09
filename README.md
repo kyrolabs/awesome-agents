@@ -66,6 +66,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Awesome OpenClaw Agents](https://github.com/mergisi/awesome-openclaw-agents): Curated collection of 100+ production-ready SOUL.md agent templates for OpenClaw, covering productivity, development, marketing, and business automation. ![GitHub Repo stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)
 
+- [Xquik X Twitter Scraper](https://github.com/Xquik-dev/x-twitter-scraper): AI agent skill for X (Twitter) data extraction with 76 REST API endpoints, 20 bulk tools, account monitoring, MCP server, and webhook delivery. Works with 40+ AI coding agents. ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper?style=social)
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
