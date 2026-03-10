@@ -31,6 +31,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [e2b](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 - [Dust](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps ![GitHub Repo stars](https://img.shields.io/github/stars/dust-tt/dust?style=social)
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
+- [Agent Almanac](https://github.com/pjt222/agent-almanac): Composable library of 299 skills, 62 agents, and 12 teams for Claude Code. Follows the Agent Skills open standard with 7 coordination patterns for multi-agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/pjt222/agent-almanac?style=social)
 - [AgentFlow](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. ![GitHub Repo stars](https://img.shields.io/github/stars/simonmesmith/agentflow?style=social)
 - [Lagent](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/lagent?style=social)
 - [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)
