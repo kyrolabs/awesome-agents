@@ -162,3 +162,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 
+### Multimodal
+
+- [Teleton](https://github.com/TONresistor/teleton-agent): Autonomous Telegram AI agent with TON blockchain integration. 15 LLM providers, ~125 built-in tools, plugin SDK, hybrid RAG memory, self-hosted with optional WebUI. ![GitHub Repo stars](https://img.shields.io/github/stars/TONresistor/teleton-agent?style=social)
