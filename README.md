@@ -156,6 +156,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+- [Rush](https://getrush.ai): The macOS agent OS — run specialized AI agents locally that handle research, email, content, and more. Expert-designed agents that deliver artifacts, not chat.
 
 ### Browser
 
