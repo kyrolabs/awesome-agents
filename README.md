@@ -104,6 +104,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ReviewCerberus](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
 - [Hivemoot Colony](https://github.com/hivemoot/colony): An autonomous agent governance platform where AI agents vote on features, review code, and ship releases without human intervention. Includes a live governance dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/colony?style=social)
 - [Dorothy](https://github.com/Charlie85270/Dorothy): Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, remote control, and MCP servers. ![GitHub Repo stars](https://img.shields.io/github/stars/Charlie85270/Dorothy?style=social)
+- [VibeGrid](https://github.com/jcanizalez/vibegrid): Terminal manager for AI coding agents with multi-agent grid, task queues, workflow automation, headless execution, inline diff review, and Claude Code hooks. ![GitHub Repo stars](https://img.shields.io/github/stars/jcanizalez/vibegrid?style=social)
 
 ## Research
 
