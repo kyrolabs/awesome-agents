@@ -19,6 +19,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [GNAP](https://github.com/farol-team/gnap): Git-Native Agent Protocol — coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. ![GitHub Repo stars](https://img.shields.io/github/stars/farol-team/gnap?style=social)
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
