@@ -149,6 +149,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Automation
 
+- [Grazer](https://github.com/Scottcjn/grazer-skill): An OpenClaw AgentSkill for automated data grazing and processing. ![GitHub Repo stars](https://img.shields.io/github/stars/Scottcjn/grazer-skill?style=social)
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
