@@ -107,6 +107,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Dorothy](https://github.com/Charlie85270/Dorothy): Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, remote control, and MCP servers. ![GitHub Repo stars](https://img.shields.io/github/stars/Charlie85270/Dorothy?style=social)
 - [VibeGrid](https://github.com/jcanizalez/vibegrid): Terminal manager for AI coding agents with multi-agent grid, task queues, workflow automation, headless execution, inline diff review, and Claude Code hooks. ![GitHub Repo stars](https://img.shields.io/github/stars/jcanizalez/vibegrid?style=social)
 - [Greywall](https://github.com/GreyhavenHQ/greywall): Deny-by-default command sandbox for AI coding agents with filesystem isolation, network control via transparent proxy, built-in profiles for agents like Claude Code or OpenCode, and learning mode for auto-generating configs. ![GitHub Repo stars](https://img.shields.io/github/stars/GreyhavenHQ/greywall?style=social)
+- [Claude War Room](https://github.com/RandMelville/claude-war-room): Sequential orchestrator of 5 specialized AI agents for 360° feature analysis with Claude Code. Triggers reverse engineering, scalability, concurrency, chaos engineering, and executive report. ![GitHub Repo stars](https://img.shields.io/github/stars/RandMelville/claude-war-room?style=social)
 
 ## Research
 
