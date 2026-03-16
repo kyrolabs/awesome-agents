@@ -160,6 +160,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+- [Fazm](https://github.com/m13v/fazm): The fastest AI computer agent for macOS. Takes voice commands and controls your entire desktop using direct DOM control instead of screenshots. Open source, local-first, and free. ![GitHub Repo stars](https://img.shields.io/github/stars/m13v/fazm?style=social)
 
 ### Browser
 
