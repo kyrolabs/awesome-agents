@@ -68,6 +68,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [FIM Agent](https://github.com/fim-ai/fim-agent): AI-powered Connector Hub — Python async framework with dynamic DAG planning, ReAct agent, MCP client, RAG with grounded generation, and a connector platform that turns any API into agent tools. ![GitHub Repo stars](https://img.shields.io/github/stars/fim-ai/fim-agent?style=social)
 - [Hive](https://github.com/aden-hive/hive): Open-source AI agent framework for building goal-driven, self-improving autonomous agents. Define outcomes in natural language and auto-generate agent graphs with built-in evolution loops, MCP integration, and 100+ tools. ![GitHub Repo stars](https://img.shields.io/github/stars/aden-hive/hive?style=social)
 
+- [ORCH](https://github.com/oxgeneral/ORCH): CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/oxgeneral/ORCH?style=social)
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
