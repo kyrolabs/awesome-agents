@@ -166,3 +166,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
+
+### Multimodal
+
+- [Fazm](https://github.com/m13v/fazm): Open-source voice-controlled AI agent for macOS that uses accessibility APIs and ScreenCaptureKit to see, understand, and interact with your desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/m13v/fazm?style=social)
