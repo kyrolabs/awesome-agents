@@ -161,6 +161,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 
+- [Arch Tools](https://archtools.dev): The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. [Docs](https://archtools.dev/docs) | [GitHub](https://github.com/Deesmo/Arch-AI-Tools) ![GitHub Repo stars](https://img.shields.io/github/stars/Deesmo/Arch-AI-Tools?style=social)
+
 ### Browser
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
