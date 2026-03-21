@@ -77,6 +77,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [voicetest](https://github.com/voicetestdev/voicetest): Open-source test harness for voice agents with support for Retell, VAPI, Bland, and LiveKit. Run autonomous simulations and evaluate with LLM judges. ![GitHub Repo stars](https://img.shields.io/github/stars/voicetestdev/voicetest?style=social)
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
+- [Inkog](https://github.com/inkog-io/inkog): Open-source security scanner for AI agents. Detects prompt injection, infinite loops, token bombing, SQL injection via LLM, and missing human oversight across 20+ agent frameworks. CLI + MCP server with compliance mapping to EU AI Act and OWASP LLM Top 10. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
 
 ## Software Development
 
