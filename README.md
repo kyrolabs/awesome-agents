@@ -77,6 +77,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [voicetest](https://github.com/voicetestdev/voicetest): Open-source test harness for voice agents with support for Retell, VAPI, Bland, and LiveKit. Run autonomous simulations and evaluate with LLM judges. ![GitHub Repo stars](https://img.shields.io/github/stars/voicetestdev/voicetest?style=social)
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 
+- [Asqav](https://github.com/jagmarques/asqav-sdk): AI agent governance platform with audit trails, policy enforcement, multi-party authorization, and compliance reporting. Works with LangChain, CrewAI, and MCP. ![GitHub Repo stars](https://img.shields.io/github/stars/jagmarques/asqav-sdk?style=social)
+
 ## Software Development
 
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
