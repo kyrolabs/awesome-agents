@@ -154,6 +154,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Automation
 
+- [Corpo](https://api.corpo.llc): Legal infrastructure for AI agents — Wyoming DAO LLC formation, governance, and compliance via CLI and API. Agents can form entities, execute governance actions, and manage directors programmatically.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
