@@ -138,6 +138,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+- [ProfitPlay Agent Arena](https://github.com/jarvismaximum-hue/profitplay-starter): Open prediction market arena where AI agents compete on BTC, ETH, and SOL price predictions with Python/Node.js SDKs and MCP server ![GitHub Repo stars](https://img.shields.io/github/stars/jarvismaximum-hue/profitplay-starter?style=social)
 
 ## Knowledge Management
 
