@@ -21,6 +21,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [claw-army/claude-node](https://github.com/claw-army/claude-node): Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
