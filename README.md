@@ -18,6 +18,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
   - [Automation](#automation)
     - [Browser](#browser)
     - [Multimodal](#multimodal)
+  - [Resources](#resources)
 
 ## Frameworks
 
@@ -175,3 +176,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
+
+## Resources
+
+- [AgentsIndex](https://agentsindex.ai) - Directory of AI agents, frameworks, and tools. Compare features, pricing, and capabilities.
