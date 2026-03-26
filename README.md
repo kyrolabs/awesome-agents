@@ -82,6 +82,9 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 * [ai-evaluation](https://github.com/future-agi/ai-evaluation): Open-source Python/TypeScript SDK for evaluating LLM agents with 50+ local metrics, LLM-as-Judge augmentation, guardrail scanners (jailbreak, PII, injection), streaming assessment, and AutoEval pipelines with CI/CD support. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social)](https://github.com/future-agi/ai-evaluation)
 * [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors out of the box. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
+* - [TyScore](https://github.com/tyloup2900/tyscore-app): Developmental diagnostics for AI agents — drift detection, emergence signals (EEH stages 1-5), Guardian compliance, Dream Cycle readiness, and health grades. Built on published research (Exponential Emergence Hypothesis). 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/tyloup2900/tyscore-app?style=social)
 ## Software Development
 
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
