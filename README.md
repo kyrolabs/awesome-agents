@@ -71,6 +71,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [FIM Agent](https://github.com/fim-ai/fim-agent): AI-powered Connector Hub — Python async framework with dynamic DAG planning, ReAct agent, MCP client, RAG with grounded generation, and a connector platform that turns any API into agent tools. ![GitHub Repo stars](https://img.shields.io/github/stars/fim-ai/fim-agent?style=social)
 - [Hive](https://github.com/aden-hive/hive): Open-source AI agent framework for building goal-driven, self-improving autonomous agents. Define outcomes in natural language and auto-generate agent graphs with built-in evolution loops, MCP integration, and 100+ tools. ![GitHub Repo stars](https://img.shields.io/github/stars/aden-hive/hive?style=social)
 - [ConnectOnion](https://github.com/openonion/connectonion): Simple Python framework for production-ready AI agents — 2-line creation, functions as tools, 12 lifecycle hooks, plugin system, multi-agent networking with trust ![GitHub Repo stars](https://img.shields.io/github/stars/openonion/connectonion?style=social)
+- [Engram](https://github.com/kwstx/engram_translator): Open-source universal translator for ai agents, connect any agents together.
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
