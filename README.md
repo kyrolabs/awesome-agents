@@ -169,6 +169,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [Untether](https://github.com/littlebearapps/untether): Telegram bridge for AI coding agents — remote task control with progress streaming, interactive permissions, voice input, and cost tracking. Supports Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp. ![GitHub Repo stars](https://img.shields.io/github/stars/littlebearapps/untether?style=social)
+- [ShopSavvy MCP Server](https://github.com/shopsavvy/shopsavvy-mcp-server): MCP server giving AI agents real-time product pricing, price history, and shopping tools across 70,000+ retailers. Works with Claude, ChatGPT, Gemini, and any MCP-compatible client. ![GitHub Repo stars](https://img.shields.io/github/stars/shopsavvy/shopsavvy-mcp-server?style=social)
 
 ### Browser
 
