@@ -155,6 +155,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch): LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. ![GitHub Repo stars](https://img.shields.io/github/stars/nilsherzig/LLocalSearch?style=social)
 - [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app to dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 - [SAGE](https://github.com/l33tdawg/sage): Institutional memory for AI agents — every memory goes through BFT consensus before it's committed. 4 application validators, 13 MCP tools, runs locally. ![GitHub Repo stars](https://img.shields.io/github/stars/l33tdawg/sage?style=social)
+- [Muninn](https://github.com/Phillipneho/muninn): Persistent memory layer for AI agents — SQLite local storage, cloud sync, 8x faster than RAG. Supports episodic, semantic, and procedural memory with semantic search. ![GitHub Repo stars](https://img.shields.io/github/stars/Phillipneho/muninn?style=social)
 
 ## Automation
 
