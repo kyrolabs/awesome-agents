@@ -158,6 +158,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Automation
 
+- [ClawBox](https://github.com/coderkk1992/clawbox): Run OpenClaw AI agent in a sandboxed Linux VM with native macOS UI. 5-minute setup, no CLI required. ![GitHub Repo stars](https://img.shields.io/github/stars/coderkk1992/clawbox?style=social)
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
 - [RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs ![GitHub Repo stars](https://img.shields.io/github/stars/Yifan-Song793/RestGPT?style=social)
 - [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent?style=social)
