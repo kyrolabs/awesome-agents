@@ -171,6 +171,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [Untether](https://github.com/littlebearapps/untether): Telegram bridge for AI coding agents — remote task control with progress streaming, interactive permissions, voice input, and cost tracking. Supports Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp. ![GitHub Repo stars](https://img.shields.io/github/stars/littlebearapps/untether?style=social)
 
+- [Strale](https://strale.dev) - API capability marketplace for AI agents with 270+ quality-scored tools, MCP server, A2A support, and x402 payments.
 ### Browser
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
