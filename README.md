@@ -22,6 +22,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ## Frameworks
 
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
+- [SwarmX (swarms-x402)](https://github.com/SolTwizzy/swarms-x402): Multi-agent AI orchestration with native x402 micropayments on Solana. 49 endpoints, 39 MCP tools, dual LLM, knowledge/RAG. ElizaOS v2 plugin. ![GitHub Repo stars](https://img.shields.io/github/stars/SolTwizzy/swarms-x402?style=social)
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
 - [LangChain](https://github.com/hwchase17/langchain): the original 🐍 ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)
