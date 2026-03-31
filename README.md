@@ -171,6 +171,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [Untether](https://github.com/littlebearapps/untether): Telegram bridge for AI coding agents — remote task control with progress streaming, interactive permissions, voice input, and cost tracking. Supports Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp. ![GitHub Repo stars](https://img.shields.io/github/stars/littlebearapps/untether?style=social)
+- [Mission Control](https://github.com/MeisnerDan/mission-control): Cockpit for the agentic era — manage AI agent swarms with autonomous daemon, Field Ops for real-world execution, encrypted vault, and approval workflows. Not a cage. A cockpit. [![GitHub Stars](https://img.shields.io/github/stars/MeisnerDan/mission-control?style=social)](https://github.com/MeisnerDan/mission-control)
 
 ### Browser
 
