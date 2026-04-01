@@ -171,7 +171,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [Untether](https://github.com/littlebearapps/untether): Telegram bridge for AI coding agents — remote task control with progress streaming, interactive permissions, voice input, and cost tracking. Supports Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp. ![GitHub Repo stars](https://img.shields.io/github/stars/littlebearapps/untether?style=social)
-- [SwiftAutoGUI](https://github.com/NakaokaRei/SwiftAutoGUI): A Swift library for automating keyboard and mouse events on macOS. ![GitHub Repo stars](https://img.shields.io/github/stars/NakaokaRei/SwiftAutoGUI?style=social)
+- [SwiftAutoGUI](https://github.com/NakaokaRei/SwiftAutoGUI): A Swift library for programmatically controlling mouse and keyboard on macOS, enabling AI agents to interact with desktop applications. ![GitHub Repo stars](https://img.shields.io/github/stars/NakaokaRei/SwiftAutoGUI?style=social)
 
 ### Browser
 
