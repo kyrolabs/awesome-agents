@@ -114,6 +114,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Dorothy](https://github.com/Charlie85270/Dorothy): Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, remote control, and MCP servers. ![GitHub Repo stars](https://img.shields.io/github/stars/Charlie85270/Dorothy?style=social)
 - [VibeGrid](https://github.com/jcanizalez/vibegrid): Terminal manager for AI coding agents with multi-agent grid, task queues, workflow automation, headless execution, inline diff review, and Claude Code hooks. ![GitHub Repo stars](https://img.shields.io/github/stars/jcanizalez/vibegrid?style=social)
 - [Greywall](https://github.com/GreyhavenHQ/greywall): Deny-by-default command sandbox for AI coding agents with filesystem isolation, network control via transparent proxy, built-in profiles for agents like Claude Code or OpenCode, and learning mode for auto-generating configs. ![GitHub Repo stars](https://img.shields.io/github/stars/GreyhavenHQ/greywall?style=social)
+- [AgentShield](https://github.com/brigen/agent-shield): A firewall and audit log for AI agents. AgentShield sits between your AI agents and the tools they use. It intercepts every tool call, enforces allow/deny policies, rate-limits dangerous operations, and logs everything — so you know exactly what your agents are doing. ![GitHub Repo stars](https://img.shields.io/github/stars/brigen/agent-shield?style=social)
 
 ## Research
 
