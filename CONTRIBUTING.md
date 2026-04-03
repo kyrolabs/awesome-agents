@@ -4,7 +4,7 @@ The Awesome Agents curates content and projects using or supporting AI Agents ec
 
 We do not list content that is:
 
-- brand new vibe coded repo without demonstrated traction.
+- brand new repo without demonstrated traction.
 - not in English.
 - not related to Agentic frameworks.
 - not maintained anymore.
