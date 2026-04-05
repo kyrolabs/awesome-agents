@@ -112,6 +112,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [VibeGrid](https://github.com/jcanizalez/vibegrid): Terminal manager for AI coding agents with multi-agent grid, task queues, workflow automation, headless execution, inline diff review, and Claude Code hooks. ![GitHub Repo stars](https://img.shields.io/github/stars/jcanizalez/vibegrid?style=social)
 - [Greywall](https://github.com/GreyhavenHQ/greywall): Deny-by-default command sandbox for AI coding agents with filesystem isolation, network control via transparent proxy, built-in profiles for agents like Claude Code or OpenCode, and learning mode for auto-generating configs. ![GitHub Repo stars](https://img.shields.io/github/stars/GreyhavenHQ/greywall?style=social)
 
+- [clideck](https://github.com/rustykuntz/clideck): WhatsApp-like dashboard for managing multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing between agents, mobile remote. ![GitHub Repo stars](https://img.shields.io/github/stars/rustykuntz/clideck?style=social)
+
 ## Research
 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
