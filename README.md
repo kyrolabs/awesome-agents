@@ -171,6 +171,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [SwiftAutoGUI](https://github.com/NakaokaRei/SwiftAutoGUI): A Swift library for macOS automation with a built-in AI agent that autonomously observes the screen, reasons, and executes actions using the ReAct pattern. Also provides programmatic mouse, keyboard, screenshot, and image recognition APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/NakaokaRei/SwiftAutoGUI?style=social)
 
 ### Browser
+- **[Agent Trust Stack](https://github.com/alexfleetcommander/agent-trust-stack-mcp)** - Cryptographic provenance logging (Chain of Consciousness) and decentralized reputation scoring (Agent Rating Protocol) for autonomous AI agents. Bitcoin-anchored audit trails. [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) | [PyPI](https://pypi.org/project/agent-trust-stack-mcp/)
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
