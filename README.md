@@ -70,6 +70,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ConnectOnion](https://github.com/openonion/connectonion): Simple Python framework for production-ready AI agents — 2-line creation, functions as tools, 12 lifecycle hooks, plugin system, multi-agent networking with trust ![GitHub Repo stars](https://img.shields.io/github/stars/openonion/connectonion?style=social)
 - [AVP: Agent Vector Protocol](https://github.com/VectorArc/avp-python): Agents communicate via KV-cache and hidden states instead of text — 2x faster, 56% fewer tokens. Supports HuggingFace, vLLM, llama.cpp, Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/VectorArc/avp-python?style=social)
 
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts): 49 production-tested system prompts for multi-agent AI systems — orchestrator, security auditor, OSINT researcher, trading analyst, code architect, and 44 more specialized agents. Free samples + Claude Code setup guide. ![GitHub Repo stars](https://img.shields.io/github/stars/milkomida77/guardian-agent-prompts?style=social)
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
