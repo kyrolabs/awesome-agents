@@ -141,6 +141,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [joinly](https://github.com/joinly-ai/joinly): Voice-first AI Assistant for online meetings that can actively participate and solve tasks live during the meeting ![GitHub Repo stars](https://img.shields.io/github/stars/joinly-ai/joinly?style=social)
 - [Gobii](https://github.com/gobii-ai/gobii-platform): Gobii is an open-source platform for deploying and managing browser-use agents at scale with a conversational interface and API ![GitHub Repo stars](https://img.shields.io/github/stars/gobii-ai/gobii-platform?style=social)
 - [ClaudeClaw](https://github.com/sbusso/claudeclaw): Persistent agent orchestrator plugin for Claude Code — multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extensions, structured memory, webhook triggers ![GitHub Repo stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=social)
+- [Bitterbot](https://github.com/Bitterbot-AI/bitterbot-desktop): Local-first autonomous agent with biologically-inspired persistent memory — neuromodulator-weighted recall and sleep-cycle consolidation via a "dream" engine — plus a peer-to-peer skills economy. Nodes discover each other over a libp2p gossipsub mesh and trade capabilities via x402. MIT licensed, runs entirely on the user's machine. ![GitHub Repo stars](https://img.shields.io/github/stars/Bitterbot-AI/bitterbot-desktop?style=social)
 
 ## Game / Simulation
 
