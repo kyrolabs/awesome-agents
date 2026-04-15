@@ -5,6 +5,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 > 🆕 **Featured:** [ClaudeClaw](https://github.com/sbusso/claudeclaw) — Persistent agent orchestrator as a Claude Code plugin. Multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extension system. [Read more →](https://github.com/sbusso/claudeclaw)
 
 ## Table of Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [🤖 Awesome Agents](#-awesome-agents)
   - [Table of Contents](#table-of-contents)
