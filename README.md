@@ -109,6 +109,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Greywall](https://github.com/GreyhavenHQ/greywall): Deny-by-default command sandbox for AI coding agents with filesystem isolation, network control via transparent proxy, built-in profiles for agents like Claude Code or OpenCode, and learning mode for auto-generating configs. ![GitHub Repo stars](https://img.shields.io/github/stars/GreyhavenHQ/greywall?style=social)
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate): Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Runs on Gemini CLI, Claude Code, and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=social)
 - [amux](https://github.com/mixpeek/amux): Open-source agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Python 3 + tmux. ![GitHub Repo stars](https://img.shields.io/github/stars/mixpeek/amux?style=social)
+- [agx](https://github.com/ramarlina/agx): Checkpoint-based execution engine for AI coding agents. Durable Wake→Work→Sleep loops with instant resume, orchestrating Claude Code, Codex CLI, Gemini CLI, and Ollama. Local-first (SQLite), CLI + web dashboard + macOS app. ![GitHub Repo stars](https://img.shields.io/github/stars/ramarlina/agx?style=social)
 
 ## Research
 
