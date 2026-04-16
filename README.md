@@ -169,5 +169,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
+- [OpenTwins](https://github.com/Open-Twin/opentwins): Autonomous digital-twin agents across 10 social platforms using Claude Code and Chrome CDP. ![GitHub Repo stars](https://img.shields.io/github/stars/Open-Twin/opentwins?style=social)
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Actionbook](https://github.com/actionbook/actionbook): Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece. ![GitHub Repo stars](https://img.shields.io/github/stars/actionbook/actionbook?style=social)
