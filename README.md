@@ -108,7 +108,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate): Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Runs on Gemini CLI, Claude Code, and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=social)
 - [amux](https://github.com/mixpeek/amux): Open-source agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Python 3 + tmux. ![GitHub Repo stars](https://img.shields.io/github/stars/mixpeek/amux?style=social)
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social)
-
+- [AI Dev Tools Directory](https://aidevtools-3qf.pages.dev/) — Pricing comparison and benchmark suite for 61+ AI coding models. Helps developers choose the right AI model for their agents with interactive ROI calculator, value analyzer, and public JSON API.
 ## Research
 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
