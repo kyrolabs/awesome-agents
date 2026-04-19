@@ -140,6 +140,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT): role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+* [LlmSandbox](https://github.com/Trainerx7979/LlmSandbox) - Real-time 2D NPC sandbox where procedurally generated agents live, move, and make decisions via local LLM (Ollama/LM Studio). Features memory, relationships, goal-setting, and a developer console for injecting commands.
+* [LLM-Sim-Alpha](https://github.com/Trainerx7979/LLM-Sim-Alpha) - Research-oriented emergent-behavior simulation where one NPC is secretly evil. Full JSONL logging of every agent brain state, visual log replay viewer, and configurable storyteller alignments. Built for studying emergent social dynamics.
 
 ## Knowledge Management
 
