@@ -164,6 +164,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 
+- [SigCLI](https://github.com/sigcli/sigcli): Authentication layer for AI agents. Local MITM proxy injects credentials transparently — agents authenticate without seeing secrets. Browser SSO, AES-256-GCM encryption, 4 auth strategies. ![GitHub Repo stars](https://img.shields.io/github/stars/sigcli/sigcli?style=social)
 ### Browser
 
 - [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with Langchain & OpenAI (Vercel / Nextjs) ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
