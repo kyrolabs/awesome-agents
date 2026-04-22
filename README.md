@@ -69,6 +69,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [SwarmClaw](https://github.com/swarmclawai/swarmclaw): Self-hosted AI runtime for multi-agent orchestration with heartbeats, schedules, delegation, memory, and runtime skills across OpenClaw, Claude Code, Codex, Gemini CLI, and major LLM providers. Ships as a desktop app (Electron) and CLI. ![GitHub Repo stars](https://img.shields.io/github/stars/swarmclawai/swarmclaw?style=social)
 * [smolagents](https://github.com/huggingface/smolagents): Open-source Python library designed to make it extremely easy to build and run agents using just a few lines of code. ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/smolagents?style=social)
 
+- [Octomind](https://github.com/muvon/octomind): Open-source, model-agnostic AI agent runtime with community-built specialist agents (developer, medical, legal, DevOps), MCP support, and zero-config setup. ![GitHub Repo stars](https://img.shields.io/github/stars/muvon/octomind?style=social)
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
