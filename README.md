@@ -77,6 +77,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 * [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors out of the box. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
+- [AgentMeter](https://github.com/AgentMeter/agentmeter-action): GitHub-native cost and token tracker for AI agent runs in GitHub Actions. Posts per-run spend summaries on pull requests. Works with Claude Code, Codex, and GitHub Agentic Workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/AgentMeter/agentmeter-action?style=social)
 
 ## Software Development
 
