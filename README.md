@@ -152,6 +152,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app to dialog with your second brain notes using OpenAI and ChromaDB locally. ![GitHub Repo stars](https://img.shields.io/github/stars/flepied/second-brain-agent?style=social)
 - [SAGE](https://github.com/l33tdawg/sage): Institutional memory for AI agents — every memory goes through BFT consensus before it's committed. 4 application validators, 13 MCP tools, runs locally. ![GitHub Repo stars](https://img.shields.io/github/stars/l33tdawg/sage?style=social)
 - [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, MCP, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
+- [Screenpipe](https://github.com/screenpipe/screenpipe): 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Gives AI agents long-term context of everything you've seen, said, or heard. MCP server for Claude. 100% local, MIT licensed. ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social)
 
 ## Automation
 
