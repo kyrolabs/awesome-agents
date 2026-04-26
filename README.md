@@ -80,6 +80,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Software Development
 
+- [ControlKeel](https://github.com/aryaminus/controlkeel): Governance/control plane for coding agents with validation, findings, approval gates, budget/provider tracking, and proof bundles across Claude Code, Codex CLI, OpenCode, Cursor, and other hosts. ![GitHub Repo stars](https://img.shields.io/github/stars/aryaminus/controlkeel?style=social)
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): 🙌 OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
