@@ -110,6 +110,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate): Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Runs on Gemini CLI, Claude Code, and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/josstei/maestro-orchestrate?style=social)
 - [amux](https://github.com/mixpeek/amux): Open-source agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Python 3 + tmux. ![GitHub Repo stars](https://img.shields.io/github/stars/mixpeek/amux?style=social)
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social)
+- [KubeStellar Console](https://github.com/kubestellar/console): Multi-cluster Kubernetes dashboard with AI-powered operations agent (kc-agent) providing MCP tools for managing workloads across edge and cloud clusters. CNCF project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
 
 ## Research
 
