@@ -21,6 +21,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [AstraNL](https://github.com/tolegm/astranl-mcp): Coordination AND execution protocol with MCP server. 15 ready AI capabilities (translate, write, code, summarize, classify, extract, transform, plan) plus real-world task coordination. Multi-provider mesh (Anthropic, OpenAI, Gemini, Grok). Honest accounting: 0% margin on inference, 15% coordination fee, micro-EUR billing. Public economy API. Stripe Connect escrow. EU AI Act ready, KvK 88449335.
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
