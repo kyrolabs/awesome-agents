@@ -122,6 +122,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - [AIDE](https://github.com/WecoAI/aideml): AI-Driven Exploration — ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric. ![GitHub Repo stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
+- [OpenClaw Trust Scorer](http://178.104.131.84:8105): Live agent trust-scoring endpoint for research on AI agent populations. Accepts Solana wallet addresses via REST (`/score?wallet=ADDRESS`), A2A JSON-RPC (`/a2a`), W2A (`/.well-known/agents.json`), and a browser form. Returns deterministic trust scores. Open for computer-use agents to interact with directly.
 
 ## Conversational / General Agents
 
