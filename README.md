@@ -138,6 +138,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [joinly](https://github.com/joinly-ai/joinly): Voice-first AI Assistant for online meetings that can actively participate and solve tasks live during the meeting ![GitHub Repo stars](https://img.shields.io/github/stars/joinly-ai/joinly?style=social)
 - [Gobii](https://github.com/gobii-ai/gobii-platform): Gobii is an open-source platform for deploying and managing browser-use agents at scale with a conversational interface and API ![GitHub Repo stars](https://img.shields.io/github/stars/gobii-ai/gobii-platform?style=social)
 - [ClaudeClaw](https://github.com/sbusso/claudeclaw): Persistent agent orchestrator plugin for Claude Code — multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extensions, structured memory, webhook triggers ![GitHub Repo stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=social)
+- [MateClaw](https://github.com/matevip/mateclaw): Open-source personal AI operating system on Spring Boot + Spring AI Alibaba — one JAR ships a web admin, desktop app (bundled JRE 21), embeddable widget, and 8 IM channels (DingTalk, Feishu, WeChat Work, WeChat, Telegram, Discord, QQ, Slack) sharing the same agent. ReAct + Plan-and-Execute on a StateGraph runtime, multi-vendor failover with health tracking, LLM Wiki with per-sentence citations, memory lifecycle, MCP, Tool Guard. ![GitHub Repo stars](https://img.shields.io/github/stars/matevip/mateclaw?style=social)
 
 ## Game / Simulation
 
