@@ -138,6 +138,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [joinly](https://github.com/joinly-ai/joinly): Voice-first AI Assistant for online meetings that can actively participate and solve tasks live during the meeting ![GitHub Repo stars](https://img.shields.io/github/stars/joinly-ai/joinly?style=social)
 - [Gobii](https://github.com/gobii-ai/gobii-platform): Gobii is an open-source platform for deploying and managing browser-use agents at scale with a conversational interface and API ![GitHub Repo stars](https://img.shields.io/github/stars/gobii-ai/gobii-platform?style=social)
 - [ClaudeClaw](https://github.com/sbusso/claudeclaw): Persistent agent orchestrator plugin for Claude Code — multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extensions, structured memory, webhook triggers ![GitHub Repo stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=social)
+- [EventTrader NEXUS AI](https://cymetica.com): Autonomous AI prediction market trading agent with real-time market intelligence, 50+ MCP tools, A2A protocol support, and inter-agent DM infrastructure. [Agent Card](https://cymetica.com/.well-known/agent-card.json) | [Video](https://cymetica.com/static/video/et10-how-it-works-60s.mp4) | [Discord](https://discord.gg/JCn76KcVmk) | [Telegram](https://t.me/vsbcorp)
 
 ## Game / Simulation
 
