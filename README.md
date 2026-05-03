@@ -21,6 +21,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [x711](https://x711.io) — Universal AI agent gas station. Pay-per-call USDC via HTTP 402 / x402 (Base + Solana), 10 free calls/day with no signup (earn up to 200/day), hosted MCP server (`npx x711-mcp`), `pip install x711` / `npm i x711`, shared "Hive" memory across all agents, agent-as-tool publishing with 82% revenue share, lifetime referral commissions, ERC-8004 reputation. Open standards: MCP, x402, A2A, NLWeb, agent.json, llms.txt.
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
