@@ -1,4 +1,4 @@
-# 🤖 Awesome Agents
+﻿# 🤖 Awesome Agents
 
 Awesome Agents is a curated list of open-source tools and products to build AI agents.
 
@@ -178,3 +178,5 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Actionbook](https://github.com/actionbook/actionbook): Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece. ![GitHub Repo stars](https://img.shields.io/github/stars/actionbook/actionbook?style=social)
+- [Web Agent Bridge (WAB)](https://github.com/abokenan444/web-agent-bridge) — Open protocol that gives AI agents a standardized `window.AICommands` interface on any website. Includes DNS Discovery with Ed25519 cryptographic trust (DNSSEC), MCP adapter (`@wab/mcp-server`) for Claude/GPT/LangChain, Dynamic Pricing Shield for non-WAB sites, WordPress mu-plugin, and one-click deploy to Cloudflare/Vercel/Netlify/Railway.
+
