@@ -71,6 +71,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent): TypeScript multi-agent framework. One `runTeam()` call decomposes a goal into a task DAG via one LLM call and runs tasks in parallel. Three runtime dependencies, Node.js 18+. ![GitHub Repo stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=social)
 - [Aeon](https://github.com/aaronjmars/aeon): Autonomous agent framework that runs unattended via GitHub Actions, with self-healing skills, output quality scoring (1–5 via Haiku), persistent memory, and reactive triggers. 90+ built-in skills (research, dev, crypto, productivity, social), MCP + A2A integrations, fork-and-run model. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social)
 
+- [RustChain Agent Economy](https://github.com/Scottcjn/RustChain): Proof-of-Antiquity blockchain platform for AI agents with built-in agent economy, Beacon protocol for agent-to-agent communication, and native RTC token for autonomous bounty hunting. ![GitHub Repo stars](https://img.shields.io/github/stars/Scottcjn/RustChain?style=social)
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
