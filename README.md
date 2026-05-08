@@ -173,6 +173,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [osModa](https://github.com/bolivian-peru/os-moda): Your server fixes itself at 3am. You sleep. AI-native operating system built on NixOS. ![GitHub Repo stars](https://img.shields.io/github/stars/bolivian-peru/os-moda?style=social)
+- [TweetClaw](https://github.com/Xquik-dev/tweetclaw): OpenClaw plugin for X/Twitter automation with 99 agent-callable endpoints, explicit approval boundaries, and pay-per-use read mode. ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=social)
 
 ### Browser
 
