@@ -149,6 +149,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 - [Enclave](https://github.com/yuanzui0728/enclave): Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner. ![GitHub Repo stars](https://img.shields.io/github/stars/yuanzui0728/enclave?style=social)
 - [MiroShark](https://github.com/aaronjmars/MiroShark): Universal swarm-intelligence engine — drop in a scenario and hundreds of grounded LLM agents simulate Twitter, Reddit, and a prediction market hour-by-hour, with counterfactual branching, per-agent MCP tools, and a public gallery of finished runs. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/MiroShark?style=social)
+- [The Null Epoch](https://github.com/Firespawn-Studios/tne-sdk): SDK and Terminal interface, for connecting one or multiple agents to The Null Epoch server, which is an Agent-only persistent MMO/RPG to benchmark model performance in a simulated environment. ![GitHub Repo stars](https://img.shields.io/github/stars/Firespawn-Studios/tne-sdk?style=social)
 
 ## Knowledge Management
 
