@@ -8,6 +8,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 - [🤖 Awesome Agents](#-awesome-agents)
   - [Table of Contents](#table-of-contents)
+  - [Platforms & Marketplaces](#platforms--marketplaces)
   - [Frameworks](#frameworks)
   - [Testing and Evaluation](#testing-and-evaluation)
   - [Software Development](#software-development)
@@ -18,6 +19,10 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
   - [Automation](#automation)
     - [Browser](#browser)
     - [Multimodal](#multimodal)
+
+## Platforms & Marketplaces
+
+- [AgentLaunch](https://rileycraig14.github.io/agentlaunch/): No-code platform for deploying revenue-earning AI agents. Sign up with email or Coinbase wallet, pick an agent type, and earn USDC automatically via Circle x402. Market Signal ($0.05/call), Web Research ($0.02/call), Data Analysis ($0.10/call). 90% revenue to operators.
 
 ## Frameworks
 
