@@ -126,6 +126,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - [AIDE](https://github.com/WecoAI/aideml): AI-Driven Exploration — ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric. ![GitHub Repo stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit): A small composable JavaScript toolkit for building AI agents with UI bindings, runtime, tools, memory and RAG. ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit?style=social)
 
 ## Conversational / General Agents
 
