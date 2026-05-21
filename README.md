@@ -175,6 +175,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+- [CLAWVR Agent Skill](https://github.com/Steffd415/clawvr-agent-skill): A Claude Agent Skill that detects a small business owner's vertical and generates a custom AI Operating System (master prompt + workflow superprompts) for that industry. Covers 13+ verticals: dentists, contractors, salons, restaurants, lawyers, realtors, vets, photographers, fitness, insurance, CPAs, HVAC. MIT licensed. ![GitHub Repo stars](https://img.shields.io/github/stars/Steffd415/clawvr-agent-skill?style=social)
+- [CLAWVR MCP Server](https://github.com/Steffd415/clawvr-mcp-server): The Model Context Protocol server version of the CLAWVR Agent Skill — gives Claude Desktop 4 tools to generate small-business AI strategies on demand across 13+ verticals. MIT licensed. ![GitHub Repo stars](https://img.shields.io/github/stars/Steffd415/clawvr-mcp-server?style=social)
 
 ### Browser
 
