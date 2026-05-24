@@ -71,6 +71,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [open-multi-agent](https://github.com/JackChen-me/open-multi-agent): TypeScript multi-agent framework. One `runTeam()` call decomposes a goal into a task DAG via one LLM call and runs tasks in parallel. Three runtime dependencies, Node.js 18+. ![GitHub Repo stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=social)
 - [Aeon](https://github.com/aaronjmars/aeon): Autonomous agent framework that runs unattended via GitHub Actions, with self-healing skills, output quality scoring, persistent memory, and reactive triggers. 90+ built-in skills (research, dev, crypto, productivity, social), MCP + A2A integrations, fork-and-run model. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social)
 - [Cordum](https://github.com/cordum-io/cordum): Out-of-process governance control plane for autonomous AI agents — pre-dispatch policy enforcement, approval gates, and signed audit trails for production governance. ![GitHub Repo stars](https://img.shields.io/github/stars/cordum-io/cordum?style=social)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
@@ -78,7 +79,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
-* [traceAI](https://github.com/future-agi/traceAI): Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers capturing prompts, tokens, latency, and errors out of the box. [![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)](https://github.com/future-agi/traceAI)
 
 ## Software Development
 
@@ -113,7 +113,9 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [amux](https://github.com/mixpeek/amux): Open-source agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Python 3 + tmux. ![GitHub Repo stars](https://img.shields.io/github/stars/mixpeek/amux?style=social)
 - [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh): The AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. ![GitHub Repo stars](https://img.shields.io/github/stars/AgentsMesh/AgentsMesh?style=social)
 - [KubeStellar Console](https://github.com/kubestellar/console): Multi-cluster Kubernetes dashboard with AI-powered operations agent (kc-agent) providing MCP tools for managing workloads across edge and cloud clusters. CNCF project. ![GitHub Repo stars](https://img.shields.io/github/stars/kubestellar/console?style=social)
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein): Python orchestrator for 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider). One LLM plan call up front, then deterministic scheduling, git worktree isolation per task, quality gates, and an HMAC-chained audit log of every step. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=social)
 - [ctop](https://github.com/aakashadesara/ctop): htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates. Zero dependencies, pure Node.js. ![GitHub Repo stars](https://img.shields.io/github/stars/aakashadesara/ctop?style=social)
+- [Frontman](https://www.github.com/frontman-ai/frontman): Open-source AI coding agent that lives in your browser, hooks into your dev server, sees the live DOM, component tree, CSS, routes, and logs, then edits the actual source files with instant hot reload. ![GitHub Repo stars](https://img.shields.io/github/stars/frontman-ai/frontman?style=social)
 
 ## Research
 
@@ -174,7 +176,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
-- [osModa](https://github.com/bolivian-peru/os-moda): Your server fixes itself at 3am. You sleep. AI-native operating system built on NixOS. ![GitHub Repo stars](https://img.shields.io/github/stars/bolivian-peru/os-moda?style=social)
 
 ### Browser
 
