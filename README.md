@@ -115,6 +115,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein): Python orchestrator for 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider). One LLM plan call up front, then deterministic scheduling, git worktree isolation per task, quality gates, and an HMAC-chained audit log of every step. Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=social)
 - [ctop](https://github.com/aakashadesara/ctop): htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates. Zero dependencies, pure Node.js. ![GitHub Repo stars](https://img.shields.io/github/stars/aakashadesara/ctop?style=social)
 - [Frontman](https://www.github.com/frontman-ai/frontman): Open-source AI coding agent that lives in your browser, hooks into your dev server, sees the live DOM, component tree, CSS, routes, and logs, then edits the actual source files with instant hot reload. ![GitHub Repo stars](https://img.shields.io/github/stars/frontman-ai/frontman?style=social)
+- [harness-starter-kit](https://github.com/baskduf/harness-starter-kit): Prompt-first starter kit for turning repeated coding-agent instructions into durable repo rules, knowledge stores, feedback loops, and drift checks. ![GitHub Repo stars](https://img.shields.io/github/stars/baskduf/harness-starter-kit?style=social)
 
 ## Research
 
