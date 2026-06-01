@@ -116,7 +116,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ctop](https://github.com/aakashadesara/ctop): htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates. Zero dependencies, pure Node.js. ![GitHub Repo stars](https://img.shields.io/github/stars/aakashadesara/ctop?style=social)
 - [Frontman](https://www.github.com/frontman-ai/frontman): Open-source AI coding agent that lives in your browser, hooks into your dev server, sees the live DOM, component tree, CSS, routes, and logs, then edits the actual source files with instant hot reload. ![GitHub Repo stars](https://img.shields.io/github/stars/frontman-ai/frontman?style=social)
 - [Maestro](https://github.com/RunMaestro/Maestro): Open-source desktop command center for running multiple AI coding agents (Claude Code, Codex, Gemini CLI, etc.) in parallel, with Cue event automation, Auto Run playbooks, Group Chat across local and remote agents, and a maestro-cli that agents can drive themselves. ![GitHub Repo stars](https://img.shields.io/github/stars/RunMaestro/Maestro?style=social)
-- [OneQuery](https://github.com/wordbricks/onequery): CLI skill for safe, auditable agent queries against approved data sources. ![GitHub Repo stars](https://img.shields.io/github/stars/wordbricks/onequery?style=social)
+- [OneQuery](https://github.com/wordbricks/onequery): CLI skill for safe, auditable queries for agents against approved data sources. ![GitHub Repo stars](https://img.shields.io/github/stars/wordbricks/onequery?style=social)
 
 ## Research
 
