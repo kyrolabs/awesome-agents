@@ -79,6 +79,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 
+- [eval-harness](https://github.com/nano-step/eval-harness): Behavior-regression testing for LLM agents and skills (opencode runner today, runner-pluggable): runs structured + prose eval cases against prompts/skills, diffs against a committed baseline, and gates PRs on cost-bounded regressions — with 4-class attribution (SKILL_CHANGED / FIXTURE_STALE / MODEL_CHANGED / UNKNOWN_DRIFT) when a regression lands. ![GitHub Repo stars](https://img.shields.io/github/stars/nano-step/eval-harness?style=social)
 ## Software Development
 
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
