@@ -143,7 +143,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Gobii](https://github.com/gobii-ai/gobii-platform): Gobii is an open-source platform for deploying and managing browser-use agents at scale with a conversational interface and API ![GitHub Repo stars](https://img.shields.io/github/stars/gobii-ai/gobii-platform?style=social)
 - [ClaudeClaw](https://github.com/sbusso/claudeclaw): Persistent agent orchestrator plugin for Claude Code — multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extensions, structured memory, webhook triggers ![GitHub Repo stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=social)
 - [OpenAgent](https://github.com/the-open-agent/openagent): Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supports computer-use, browser-use, coding agent, 30+ model providers, visual workflow builder, and MCP tools. Self-hostable with admin dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-agent/openagent?style=social)
-- [MateClaw](https://github.com/matevip/mateclaw): Open-source personal AI operating system on Spring Boot + Spring AI Alibaba — one JAR ships a web admin, desktop app (bundled JRE 21), embeddable widget, and 8 IM channels sharing the same agent. ![GitHub Repo stars](https://img.shields.io/github/stars/matevip/mateclaw?style=social)
+- [MateClaw](https://github.com/matevip/mateclaw): Open-source personal AI operating system on Spring Boot + Spring AI Alibaba — one JAR ships a web admin, desktop app (bundled JRE 21), embeddable widget, and 8 IM channels sharing the same agent. ![GitHub Repo stars] (https://img.shields.io/github/stars/matevip/mateclaw?style=social)
 
 ## Game / Simulation
 
@@ -163,7 +163,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Hindsight](https://github.com/vectorize-io/hindsight): State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, MCP, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/vectorize-io/hindsight?style=social)
 - [Screenpipe](https://github.com/screenpipe/screenpipe): 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Gives AI agents long-term context of everything you've seen, said, or heard. MCP server for Claude. 100% local, MIT licensed. ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social)
 - [piia-engram](https://github.com/Patdolitse/piia-engram): Cross-tool persistent memory for AI agents. Local-first identity and knowledge layer that works across Claude Code, Cursor, Codex, and any MCP-compatible client. ![GitHub Repo stars](https://img.shields.io/github/stars/Patdolitse/piia-engram?style=social)
-- [MemClaw](https://github.com/caura-ai/caura-memclaw): Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory.
+- [MemClaw](https://github.com/caura-ai/caura-memclaw): Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory. ![GitHub Repo stars](https://img.shields.io/github/stars/caura-ai/caura-memclaw?style=social)
 
 ## Automation
 
