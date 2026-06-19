@@ -131,6 +131,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenLens AI](https://github.com/jarrycyx/openlens-ai): Fully Autonomous Research Agent for Health Infomatics ![GitHub Repo stars](https://img.shields.io/github/stars/jarrycyx/openlens-ai?style=social)
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - [AIDE](https://github.com/WecoAI/aideml): AI-Driven Exploration — ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric. ![GitHub Repo stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
+- [Open Deep Research (Web UI)](https://github.com/extracurricular-ai/open-deep-research-with-web-ui): Self-hostable deep research agent built on smolagents. Supports a real-time web UI, parallel background research, LLM-based context compaction for long runs, multi-model providers (OpenAI/Anthropic/DeepSeek/Ollama), and multi-provider search (DDGS/Tavily/SerpAPI/MetaSo/Bocha) with auto-fallback. One-command Docker deploy. ![GitHub Repo stars](https://img.shields.io/github/stars/extracurricular-ai/open-deep-research-with-web-ui?style=social)
 
 ## Conversational / General Agents
 
