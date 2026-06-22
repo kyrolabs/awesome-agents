@@ -121,6 +121,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Cate](https://github.com/0-AI-UG/cate): Desktop IDE on an infinite zoomable canvas. Editors, terminals, browsers, and Claude Code agent panels float in spatial workspace instead of tabs; panels can dock or detach into separate windows. Electron + React + TypeScript, layout persists per project. ![GitHub Repo stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=social)
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder): Local-first CLI coding agent built with React and Ink. ![GitHub Repo stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social)
 - [zeroshot](https://github.com/the-open-engine/zeroshot): CLI that orchestrates a planner, an implementer, and independent validators in isolated environments ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-engine/zeroshot?style=social)
+- [LoopTroop](https://github.com/looptroop-ai/LoopTroop): Local-first GUI app that orchestrates an LLM Council through Ralph Loops and Context Engineering to autonomously run full-lifecycle coding tickets, locally and open-source. ![GitHub Repo stars](https://img.shields.io/github/stars/looptroop-ai/LoopTroop?style=social)
 
 ## Research
 
