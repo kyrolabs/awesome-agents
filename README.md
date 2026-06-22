@@ -80,6 +80,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix): Arize-Phoenix is an open source library for agent testing, evaluation and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social)
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 - [agent-qa](https://github.com/vostride/agent-qa): Self-improving agentic QA harness for web and mobile tests. Write tests in natural language, use memory to adapt to UI changes, and catch regressions before releases ship. ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
+- [AI Fake-Landing Checkup](https://github.com/ruiflow-team/ai-fake-landing-checkup): Free self-audit checklist and risk scoring tool for AI agent projects. 25 questions + 100-point score to detect fake-landing risks before investing time and money. ![GitHub Repo stars](https://img.shields.io/github/stars/ruiflow-team/ai-fake-landing-checkup?style=social)
 
 ## Software Development
 
