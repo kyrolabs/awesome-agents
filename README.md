@@ -171,6 +171,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [MemClaw](https://github.com/caura-ai/caura-memclaw): Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory.
 - [Statewave](https://github.com/smaramwbc/statewave): Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=social)
 
+- [Inite Brain](https://github.com/inite-ai/inite-brain-service) - Open-source bitemporal memory layer for LLM agents. Knowledge graph (SurrealDB) with facts / episodes / procedural tiers, hybrid retrieval, conflict resolution, GDPR forget. MCP server, AGPL-3.0.
 ## Automation
 
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
