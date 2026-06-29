@@ -4,6 +4,15 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 > 🆕 **Featured:** [ClaudeClaw](https://github.com/sbusso/claudeclaw) — Persistent agent orchestrator as a Claude Code plugin. Multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extension system. [Read more →](https://github.com/sbusso/claudeclaw)
 
+
+## Skill Hub
+
+[Skill Hub](https://skill.442595.xyz/) — **4083+** AI Agent Skills across 22 functional categories.
+
+- 🛠️ **Dev Tools** · 🤖 **Agent Framework** · 🎨 **Design UI** · 📊 **Data AI** · 🔒 **Security** and more
+- 🔍 Platform: Claude Code, Codex, Cursor, OpenCode, Hermes
+- 🌐 Bilingual CN+EN  |  🐙 [GitHub](https://github.com/rdone4425/skill)
+
 ## Table of Contents
 
 - [🤖 Awesome Agents](#-awesome-agents)
