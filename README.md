@@ -72,6 +72,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Aeon](https://github.com/aaronjmars/aeon): Autonomous agent framework that runs unattended via GitHub Actions, with self-healing skills, output quality scoring, persistent memory, and reactive triggers. 90+ built-in skills (research, dev, crypto, productivity, social), MCP + A2A integrations, fork-and-run model. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social)
 - [Cordum](https://github.com/cordum-io/cordum): Out-of-process governance control plane for autonomous AI agents — pre-dispatch policy enforcement, approval gates, and signed audit trails for production governance. ![GitHub Repo stars](https://img.shields.io/github/stars/cordum-io/cordum?style=social)
 - [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go): Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. ![GitHub Repo stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go?style=social)
+- [MCP-Plugin-dotnet](https://github.com/IvanMurzak/MCP-Plugin-dotnet) - Open-source .NET library/SDK that turns any .NET application into an MCP server.
+- [ReflectorNet](https://github.com/IvanMurzak/ReflectorNet) - Open-source .NET reflection toolkit for AI-driven scenarios.
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
@@ -158,6 +160,9 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 - [Enclave](https://github.com/yuanzui0728/enclave): Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner. ![GitHub Repo stars](https://img.shields.io/github/stars/yuanzui0728/enclave?style=social)
 - [MiroShark](https://github.com/aaronjmars/MiroShark): Universal swarm-intelligence engine — drop in a scenario and hundreds of grounded LLM agents simulate Twitter, Reddit, and a prediction market hour-by-hour, with counterfactual branching, per-agent MCP tools, and a public gallery of finished runs. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronjmars/MiroShark?style=social)
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 
 ## Knowledge Management
 
