@@ -172,6 +172,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [piia-engram](https://github.com/Patdolitse/piia-engram): Cross-tool persistent memory for AI agents. Local-first identity and knowledge layer that works across Claude Code, Cursor, Codex, and any MCP-compatible client. ![GitHub Repo stars](https://img.shields.io/github/stars/Patdolitse/piia-engram?style=social)
 - [MemClaw](https://github.com/caura-ai/caura-memclaw): Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory.
 - [Statewave](https://github.com/smaramwbc/statewave): Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=social)
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac): Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository. ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=social)
 
 ## Automation
 
