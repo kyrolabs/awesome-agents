@@ -123,6 +123,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder): Local-first CLI coding agent built with React and Ink. ![GitHub Repo stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social)
 - [zeroshot](https://github.com/the-open-engine/zeroshot): CLI that orchestrates a planner, an implementer, and independent validators in isolated environments ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-engine/zeroshot?style=social)
 - [h5i](https://github.com/h5i-dev/h5i): CLI that runs several coding agents (Claude Code, Codex) on the same task, each in its own isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests, and merges the one that passes. Run metadata (prompts, models, commands, logs, messages, verdict) is versioned in the repo under refs/h5i/*. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=social)
+- [Orbital](https://github.com/zqiren/Orbital): Local-first desktop agent runtime that uses a folder of plain markdown as the agent's persistent memory (a two-tier injected index plus on-demand files), then dispatches Claude Code and Codex as sub-agents in parallel with approval workflows, per-project budgets, and OS-sandboxed built-in shell commands (Seatbelt on macOS, low-privilege user on Windows). ![GitHub Repo stars](https://img.shields.io/github/stars/zqiren/Orbital?style=social)
 
 ## Research
 
