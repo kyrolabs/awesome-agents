@@ -124,6 +124,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [zeroshot](https://github.com/the-open-engine/zeroshot): CLI that orchestrates a planner, an implementer, and independent validators in isolated environments ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-engine/zeroshot?style=social)
 - [h5i](https://github.com/h5i-dev/h5i): CLI that runs several coding agents (Claude Code, Codex) on the same task, each in its own isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests, and merges the one that passes. Run metadata (prompts, models, commands, logs, messages, verdict) is versioned in the repo under refs/h5i/*. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=social)
 - [Orbital](https://github.com/zqiren/Orbital): Local-first desktop agent runtime that uses a folder of plain markdown as the agent's persistent memory. ![GitHub Repo stars](https://img.shields.io/github/stars/zqiren/Orbital?style=social)
+- [Paperclip](https://github.com/paperclipai/paperclip): Open-source platform to run coding agents as managed workers with tasks, approvals, budgets, and workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social)
 
 ## Research
 
@@ -173,6 +174,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [piia-engram](https://github.com/Patdolitse/piia-engram): Cross-tool persistent memory for AI agents. Local-first identity and knowledge layer that works across Claude Code, Cursor, Codex, and any MCP-compatible client. ![GitHub Repo stars](https://img.shields.io/github/stars/Patdolitse/piia-engram?style=social)
 - [MemClaw](https://github.com/caura-ai/caura-memclaw): Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory.
 - [Statewave](https://github.com/smaramwbc/statewave): Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=social)
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac): Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository. ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=social)
 
 ## Automation
 
