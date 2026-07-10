@@ -84,6 +84,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Software Development
 
+- [paleo](https://github.com/mocasus/paleo): Token-saving skills for LLM agents — compress output & context tokens (~54% median, reproducible benchmark) without rewriting code. Composable skills: `paleo`, `paleo-trim-context`, `paleo-skip-preamble`, `paleo-budget`. Works on Claude Code, Codex, Gemini CLI, OpenCode, Qwen Code, Hermes + 40+ agents via `npx skills add`. ![GitHub Repo stars](https://img.shields.io/github/stars/mocasus/paleo?style=social)
+
 - [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): 🙌 OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI ![GitHub Repo stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social)
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
