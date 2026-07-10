@@ -174,6 +174,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [MemClaw](https://github.com/caura-ai/caura-memclaw): Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory.
 - [Statewave](https://github.com/smaramwbc/statewave): Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=social)
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac): Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository. ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=social)
+- [Viglet Turing ES](https://github.com/openviglet/turing-ce): Open-source enterprise-search platform with RAG chat and AI agents over your own content — faceted/hybrid search on a pluggable Solr/Elasticsearch/Lucene backend, self-hostable (Apache-2.0). ![GitHub Repo stars](https://img.shields.io/github/stars/openviglet/turing-ce?style=social)
 
 ## Automation
 
