@@ -21,6 +21,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [Nika](https://github.com/supernovae-st/nika): Workflow engine for AI where agent work lives in reviewable .nika.yaml DAG files — statically checked before execution (schema, permits, cost floor), budget-capped agent loops, tamper-evident traces after. Local-first (Ollama, llama.cpp, vLLM), MCP client and server. ![GitHub Repo stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social)
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
