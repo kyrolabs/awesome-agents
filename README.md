@@ -153,6 +153,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ClaudeClaw](https://github.com/sbusso/claudeclaw): Persistent agent orchestrator plugin for Claude Code — multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extensions, structured memory, webhook triggers ![GitHub Repo stars](https://img.shields.io/github/stars/sbusso/claudeclaw?style=social)
 - [OpenAgent](https://github.com/the-open-agent/openagent): Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supports computer-use, browser-use, coding agent, 30+ model providers, visual workflow builder, and MCP tools. Self-hostable with admin dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/the-open-agent/openagent?style=social)
 - [MateClaw](https://github.com/matevip/mateclaw): Open-source personal AI operating system on Spring Boot + Spring AI Alibaba — one JAR ships a web admin, desktop app (bundled JRE 21), embeddable widget, and 8 IM channels sharing the same agent. ![GitHub Repo stars](https://img.shields.io/github/stars/matevip/mateclaw?style=social)
+- [Zooid](https://github.com/zooid-ai/zooid): Self-hostable team-chat surface (Slack alternative on Matrix) where any ACP agent (Claude Code, Codex, opencode, goose) runs as a supervised, first-class teammate — approval cards, live tool calls, shared plans, sandboxed. ![GitHub Repo stars](https://img.shields.io/github/stars/zooid-ai/zooid?style=social)
 
 ## Game / Simulation
 
