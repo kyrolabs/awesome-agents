@@ -125,6 +125,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [h5i](https://github.com/h5i-dev/h5i): CLI that runs several coding agents (Claude Code, Codex) on the same task, each in its own isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests, and merges the one that passes. Run metadata (prompts, models, commands, logs, messages, verdict) is versioned in the repo under refs/h5i/*. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/h5i-dev/h5i?style=social)
 - [Paperclip](https://github.com/paperclipai/paperclip): Open-source platform to run coding agents as managed workers with tasks, approvals, budgets, and workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai): Open-source desktop orchestrator for autonomous coding-agent teams with task delegation, inter-agent messaging, Kanban, and code review across multiple agent runtimes. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social)
+- [bbarit-oss](https://github.com/bbarit/bbarit-agent-oss): Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, semantic code search, parallel sub-agents; a self-hostable Claude Code / Codex alternative (MIT). ![GitHub Repo stars](https://img.shields.io/github/stars/bbarit/bbarit-agent-oss?style=social)
 
 ## Research
 
