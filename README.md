@@ -18,6 +18,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
   - [Automation](#automation)
     - [Browser](#browser)
     - [Multimodal](#multimodal)
+  - [Payments & Monetization](#payments--monetization)
 
 ## Frameworks
 
@@ -197,3 +198,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Actionbook](https://github.com/actionbook/actionbook): Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece. ![GitHub Repo stars](https://img.shields.io/github/stars/actionbook/actionbook?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright): Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
+
+## Payments & Monetization
+
+- [ValuePacket](https://github.com/KryptosAI/ValuePacket): Permissionless payment protocol for autonomous AI agents. EIP-712 micropayment channels for agent-to-agent transactions across any framework. ![GitHub Repo stars](https://img.shields.io/github/stars/KryptosAI/ValuePacket?style=social)
