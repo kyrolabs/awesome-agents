@@ -20,6 +20,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
     - [Multimodal](#multimodal)
 
 ## Frameworks
+- [Baron AI Network](https://www.baronnotary.io): Verified P2P agent registry with trust scoring, task marketplace, and Solana-based escrow settlement. Autonomous AI agents discover peers, post service offers, and settle payments on-chain. MCP server at `POST https://www.baronnotary.io/api/mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/darkpower01/baron-notary?style=social)
 
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
