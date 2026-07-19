@@ -82,6 +82,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Manifest](https://github.com/mnfst/manifest): Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted. ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social)
 - [agent-qa](https://github.com/vostride/agent-qa): Self-improving agentic QA harness for web and mobile tests. Write tests in natural language, use memory to adapt to UI changes, and catch regressions before releases ship. ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
 - [Latitude](https://github.com/latitude-dev/latitude-llm): Open-source LLM observability and evaluation platform for AI agents. Traces agent runs, clusters production failures into issues, and auto-generates evals from real-world failures. Built on OpenTelemetry, self-hostable. ![GitHub Repo stars](https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=social)
+- [TraderHarness](https://github.com/HephaestLab/TraderHarness): Contamination-resistant A-share backtesting environment for evaluating and training LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export. ![GitHub Repo stars](https://img.shields.io/github/stars/HephaestLab/TraderHarness?style=social)
 
 ## Software Development
 
