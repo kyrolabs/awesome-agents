@@ -18,6 +18,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
   - [Automation](#automation)
     - [Browser](#browser)
     - [Multimodal](#multimodal)
+  - [Agent Data & Payment APIs](#agent-data--payment-apis)
 
 ## Frameworks
 
@@ -202,3 +203,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Actionbook](https://github.com/actionbook/actionbook): Parallel Action CLI for AI agents. Run 50 actions across 20 sites at onece. ![GitHub Repo stars](https://img.shields.io/github/stars/actionbook/actionbook?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright): Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
+
+## Agent Data & Payment APIs
+
+- [AgentServices](https://github.com/vbkotecha/aiservices-api): Production x402-paid API platform with 54 services, 97 endpoints, and 37 MCP tools for AI agents. Covers crypto market data, DeFi analytics, macro indicators, SEO, deep research, and more. Micropayments via USDC on Base. ![GitHub Repo stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social)
