@@ -127,7 +127,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Paperclip](https://github.com/paperclipai/paperclip): Open-source platform to run coding agents as managed workers with tasks, approvals, budgets, and workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=social)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai): Open-source desktop orchestrator for autonomous coding-agent teams with task delegation, inter-agent messaging, Kanban, and code review across multiple agent runtimes. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social)
 - [Tura](https://github.com/Tura-AI/tura): A local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. ![GitHub Repo stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social)
-- [Orca](https://github.com/echoVic/blade-deepseek): A DeepSeek-native terminal coding agent in Rust with OS-level sandboxing, persistent goal mode, background tasks, and verification gates ![GitHub Repo stars](https://img.shields.io/github/stars/echoVic/blade-deepseek?style=social)
+- [blade-deepseek](https://github.com/echoVic/blade-deepseek): A DeepSeek-native terminal coding agent in Rust with OS-level sandboxing, persistent goal mode, background tasks, and verification gates ![GitHub Repo stars](https://img.shields.io/github/stars/echoVic/blade-deepseek?style=social)
 
 ## Research
 
