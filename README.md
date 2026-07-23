@@ -128,6 +128,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai): Open-source desktop orchestrator for autonomous coding-agent teams with task delegation, inter-agent messaging, Kanban, and code review across multiple agent runtimes. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai?style=social)
 - [Tura](https://github.com/Tura-AI/tura): A local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it. ![GitHub Repo stars](https://img.shields.io/github/stars/Tura-AI/tura?style=social)
 - [blade-deepseek](https://github.com/echoVic/blade-deepseek): A DeepSeek-native terminal coding agent in Rust with OS-level sandboxing, persistent goal mode, background tasks, and verification gates ![GitHub Repo stars](https://img.shields.io/github/stars/echoVic/blade-deepseek?style=social)
+- [Claudexor](https://github.com/razzant/claudexor): Local-first control plane for routing coding work across Claude Code, Codex, Cursor, and OpenCode, with quota-aware rotation across multiple Claude Code and Codex subscription profiles, shared thread context, and cross-model review. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/claudexor?style=social)
 
 ## Research
 
