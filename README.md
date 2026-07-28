@@ -7,6 +7,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ## Table of Contents
 
 - [🤖 Awesome Agents](#-awesome-agents)
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data MCP/API for AI agents.
   - [Table of Contents](#table-of-contents)
   - [Frameworks](#frameworks)
   - [Testing and Evaluation](#testing-and-evaluation)
