@@ -21,6 +21,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [Cotal](https://github.com/Cotal-AI/Cotal): Open wire standard for agent coordination over NATS/JetStream. Agents from different harnesses join one shared space and get presence, channels, direct messages, durable history and three addressing modes (multicast, unicast, anycast), so a team can run any topology from DAGs to swarms to supervisor trees. Connectors for Claude Code, OpenCode and pi. ![GitHub Repo stars](https://img.shields.io/github/stars/Cotal-AI/Cotal?style=social)
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [llama-agentic-system](https://github.com/meta-llama/llama-agentic-system): Agentic components of the Llama Stack APIs ![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-agentic-system?style=social)
