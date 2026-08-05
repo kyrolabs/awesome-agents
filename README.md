@@ -130,6 +130,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [blade-deepseek](https://github.com/echoVic/blade-deepseek): A DeepSeek-native terminal coding agent in Rust with OS-level sandboxing, persistent goal mode, background tasks, and verification gates ![GitHub Repo stars](https://img.shields.io/github/stars/echoVic/blade-deepseek?style=social)
 - [fractal](https://github.com/plasma-ai/fractal): Runs Claude Code, Codex, and other coding agents as a recursive tree of autonomous loops. Each node works in its own git worktree and can delegate subtasks to child nodes, while a live terminal UI lets operators inspect and steer the tree within configurable time, cost, and depth limits. ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=social)
 - [OpenCodeReview](https://github.com/alibaba/open-code-review): An open-source hybrid code reviewer combining deterministic rules with an LLM agent (tool-use, line-level comments); self-hostable, bring-your-own model. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=social)
+- [GraphCode](https://github.com/scgopi/GraphCode): Native macOS app that orchestrates directed graphs of live Claude Code, GitHub Copilot, and Codex sessions. Nodes run unattended, exchange messages mid-run, fan out child loops, and resolve goals or repeat on a schedule. ![GitHub Repo stars](https://img.shields.io/github/stars/scgopi/GraphCode?style=social)
 
 ## Research
 
