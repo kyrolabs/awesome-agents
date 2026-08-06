@@ -20,6 +20,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
     - [Multimodal](#multimodal)
 
 ## Frameworks
+- [Script Master Labs](https://www.scriptmasterlabs.com) — Premium Capability Index + multi-rail x402 for AI agent API discovery. [Pricing $49](https://www.scriptmasterlabs.com/pricing.html) · [Partners](https://www.scriptmasterlabs.com/partners.html) · [Article](https://www.scriptmasterlabs.com/ai-agent-api-discovery-premium-index.html)
+
 
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
