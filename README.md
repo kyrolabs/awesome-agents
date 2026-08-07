@@ -2,7 +2,7 @@
 
 Awesome Agents is a curated list of open-source tools and products to build AI agents.
 
-> 🆕 **Featured:** [ClaudeClaw](https://github.com/sbusso/claudeclaw) — Persistent agent orchestrator as a Claude Code plugin. Multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extension system. [Read more →](https://github.com/sbusso/claudeclaw)
+> 🆕 **New list:** [Awesome ADE](https://github.com/kyrolabs/awesome-ade) — open-source **Agentic Development Environments**: orchestrators for running coding agents in parallel, TUI and tmux harnesses, desktop and web workspaces, worktree and container isolation. [Browse the list →](https://github.com/kyrolabs/awesome-ade)
 
 ## Table of Contents
 
