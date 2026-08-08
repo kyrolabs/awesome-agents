@@ -144,7 +144,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze): first agentic LLM for autonomous data science, supporting specific data tasks and data-oriented deep research (produce analyst-grade research reports). [![GitHub Repo stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze?style=social&label=Code+Stars)](https://github.com/ruc-datalab/DeepAnalyze)
 - [AIDE](https://github.com/WecoAI/aideml): AI-Driven Exploration — ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric. ![GitHub Repo stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
 - [Cynative](https://github.com/cynative/cynative):  Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
-- [Caesar](https://github.com/jasonzliang/caesar-agent): Autonomous research agent that builds a knowledge graph during web exploration via a Perceive-Think-Act loop, then refines drafts through a Generator-Verifier loop with adversarial query synthesis. Multi-provider via litellm. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
+- [Caesar](https://github.com/jasonzliang/caesar-agent): Autonomous research agent that builds a knowledge graph during web exploration via a Perceive-Think-Act loop, then refines drafts through adversarial artifact synthesis. Multi-provider via litellm. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
 
 ## Conversational / General Agents
 
