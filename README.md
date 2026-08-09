@@ -147,6 +147,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Cynative](https://github.com/cynative/cynative):  Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
 
 ## Conversational / General Agents
+- [SARA](https://github.com/Alessandro114/sara): Open-source WhatsApp AI agent with 30+ function-calling tools, multi-provider LLM (Groq/Cerebras/Mistral), autonomy gate, and vertical industry specialization for 20 sectors. Production-ready with WAHA bridge. ![GitHub Repo stars](https://img.shields.io/github/stars/Alessandro114/sara?style=social)
 
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
