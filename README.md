@@ -133,6 +133,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [BitFun](https://github.com/GCWing/BitFun): Open-source desktop agent with a Rust runtime for real repositories, browser, terminal, and desktop execution, extensible through MCP, Skills, and custom agents. ![GitHub Repo stars](https://img.shields.io/github/stars/GCWing/BitFun?style=social)
 - [CompozyOS](https://github.com/compozy/compozy): Open-source operating system for AI agents — plug in the agent CLIs you already use and run them as a team on loops and schedules, with shared memory, permissions and approvals ![GitHub Repo stars](https://img.shields.io/github/stars/compozy/compozy?style=social)
 - [Ouroboros (Agent OS)](https://github.com/Q00/ouroboros): Local-first Agent OS for spec-first AI coding — a Socratic interview crystallizes intent into an immutable seed spec before code, then a 3-stage evaluation gate (mechanical → semantic → multi-model consensus) verifies the build. Works across Claude Code, Codex CLI, OpenCode, Gemini, Kiro, Copilot, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/Q00/ouroboros?style=social)
+- [Podiom](https://github.com/Podiom/Podiom): Local-first control plane for Claude Code and Codex CLI agents — durable named agents, sessions that survive provider/profile switches, a shared project ledger, and built-in scheduling, in a single Go binary with an embedded web UI. ![GitHub Repo stars](https://img.shields.io/github/stars/Podiom/Podiom?style=social)
 
 ## Research
 
