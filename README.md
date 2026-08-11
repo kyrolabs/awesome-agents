@@ -17,7 +17,6 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
   - [Knowledge Management](#knowledge-management)
   - [Automation](#automation)
     - [Browser](#browser)
-    - [Multimodal](#multimodal)
 
 ## Frameworks
 
