@@ -183,6 +183,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Statewave](https://github.com/smaramwbc/statewave): Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=social)
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac): Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository. ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=social)
 - [IWE](https://github.com/iwe-org/iwe): Markdown knowledge graph for you and your AI agents — editor LSP plus CLI and MCP server so agents can search, retrieve, and refactor plain-text notes. ![GitHub Repo stars](https://img.shields.io/github/stars/iwe-org/iwe?style=social)
+- [Lians](https://github.com/Lians-ai/Lians): Local-first long-term memory for AI agents, with an MCP server, multi-language SDKs, temporal recall, and integrations for Codex, Gemini CLI, Cursor, and OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/Lians-ai/Lians?style=social)
 
 ## Automation
 
