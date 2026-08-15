@@ -185,6 +185,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac): Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository. ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=social)
 - [IWE](https://github.com/iwe-org/iwe): Markdown knowledge graph for you and your AI agents — editor LSP plus CLI and MCP server so agents can search, retrieve, and refactor plain-text notes. ![GitHub Repo stars](https://img.shields.io/github/stars/iwe-org/iwe?style=social)
 
+- [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format (agent-plugins.org). ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
+
 ## Automation
 
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
