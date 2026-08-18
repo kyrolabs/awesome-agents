@@ -135,6 +135,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ouroboros (Agent OS)](https://github.com/Q00/ouroboros): A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a staged evaluation gate, and a budgeted evolution loop that runs the semantic stage only. ![GitHub Repo stars](https://img.shields.io/github/stars/Q00/ouroboros?style=social)
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. No account or API key required, with 56 tools (browser, filesystem, git, memory, vision), MCP support, and 5-layer local memory. macOS, Linux, and Windows. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 - [Keen Code](https://github.com/mochow13/keen-code): Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits. ![GitHub Repo stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social)
+- [agent-scripts](https://github.com/ejboy/agent-scripts): Local-first CLI wrappers (`mvn-lite`, `npm-lite`, `go-lite`) that reduce build and test logs by up to 99%, conserving coding-agent context windows.
 
 ## Research
 
