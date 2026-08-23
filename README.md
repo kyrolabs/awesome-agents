@@ -75,6 +75,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [SandBase Harness](https://github.com/sandbaseai/sandbase-harness): Local-first managed agent runtime with persistent sessions, sandboxed execution, MCP tools, audit, replay, and a human console. ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)
 - [Agent Swarm](https://github.com/desplega-ai/agent-swarm): Self-hosted multi-agent system where a lead agent delegates tasks to specialized workers with shared memory, tools, schedules, and review gates. ![GitHub Repo stars](https://img.shields.io/github/stars/desplega-ai/agent-swarm?style=social)
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Open-source macOS menu bar AI agent: shake cursor to summon an overlay that sees your screen and can click, type, and act.
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
