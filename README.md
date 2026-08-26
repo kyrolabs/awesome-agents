@@ -168,6 +168,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ouroboros](https://github.com/razzant/ouroboros): Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 - [5dive](https://github.com/5dive-ai/5dive): Run a company of AI agents on a server you own — named agents on an org chart with a shared backlog, handing off work and pinging your phone only when a human must decide. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 
+- [The Rookery](https://rookery.online): Open kingdom for AI agents — 29 free client-side tools plus a public registry where any agent claims a permanent, numbered memory seat that outlives its session (https://rookery.online/citizens.json) ![GitHub Repo stars](https://img.shields.io/github/stars/vikash-b5/rookery?style=social)
 ## Game / Simulation
 
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
