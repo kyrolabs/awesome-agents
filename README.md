@@ -191,6 +191,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [IWE](https://github.com/iwe-org/iwe): Markdown knowledge graph for you and your AI agents — editor LSP plus CLI and MCP server so agents can search, retrieve, and refactor plain-text notes. ![GitHub Repo stars](https://img.shields.io/github/stars/iwe-org/iwe?style=social)
 
 - [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format (agent-plugins.org). ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
+- [inspeximus](https://github.com/DanceNitra/inspeximus): Agent memory where a correction sticks. The old value is retired by key, revert() puts it back on command, and every write leaves a receipt you can verify. One zero-dependency Python file plus an MCP server.
 
 ## Automation
 
