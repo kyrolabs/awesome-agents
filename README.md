@@ -20,6 +20,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [AIWG](https://github.com/jmagly/aiwg): Deploys project-owned agents, skills, and workflows across coding platforms. ![GitHub Repo stars](https://img.shields.io/github/stars/jmagly/aiwg?style=social)
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
