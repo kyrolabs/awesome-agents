@@ -75,6 +75,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [SandBase Harness](https://github.com/sandbaseai/sandbase-harness): Local-first managed agent runtime with persistent sessions, sandboxed execution, MCP tools, audit, replay, and a human console. ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social)
 - [Agent Swarm](https://github.com/desplega-ai/agent-swarm): Self-hosted multi-agent system where a lead agent delegates tasks to specialized workers with shared memory, tools, schedules, and review gates. ![GitHub Repo stars](https://img.shields.io/github/stars/desplega-ai/agent-swarm?style=social)
 - [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go): Framework for building stateful AI agents in Go. ![GitHub Repo stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=social)
+- [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. GPL-3.0. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
