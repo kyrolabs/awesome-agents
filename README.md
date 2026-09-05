@@ -194,6 +194,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format. ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
 - [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
 
+- [field-notes-mcp](https://github.com/mq1n/field-notes-mcp): Shared cross-run memory for AI agents over a plain-text board plus MCP tools (board_read, board_write, board_wait).
+
 ## Automation
 
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree. ![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)
