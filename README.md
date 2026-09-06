@@ -76,6 +76,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Agent Swarm](https://github.com/desplega-ai/agent-swarm): Self-hosted multi-agent system where a lead agent delegates tasks to specialized workers with shared memory, tools, schedules, and review gates. ![GitHub Repo stars](https://img.shields.io/github/stars/desplega-ai/agent-swarm?style=social)
 - [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go): Framework for building stateful AI agents in Go. ![GitHub Repo stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=social)
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
+- [Nausicaa](https://github.com/jackispm/nausicaa-harness): TypeScript runtime for general-purpose agents with durable Runs, independent Teto sensing lanes, multi-lane topologies, and cross-Run A2A.
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
