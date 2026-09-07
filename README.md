@@ -208,6 +208,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgentK](https://github.com/mikekelly/AgentK): An autoagentic AGI that is self-evolving and modular. ![GitHub Repo stars](https://img.shields.io/github/stars/mikekelly/AgentK?style=social)
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
+- [Atomic Mail](https://github.com/Atomic-Mail/atomic-mail-agentic): Email for AI agents — an agent gets its own inbox in ~30s via proof-of-work (no signup or API key), then sends and receives over JMAP, with an MCP server and agent-skill package. ![GitHub Repo stars](https://img.shields.io/github/stars/Atomic-Mail/atomic-mail-agentic?style=social)
 
 ### Browser
 
