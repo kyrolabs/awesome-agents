@@ -86,6 +86,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [agent-qa](https://github.com/vostride/agent-qa): Self-improving agentic QA harness for web and mobile tests. Write tests in natural language, use memory to adapt to UI changes, and catch regressions before releases ship. ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
 - [Latitude](https://github.com/latitude-dev/latitude-llm): Open-source LLM observability and evaluation platform for AI agents. Traces agent runs, clusters production failures into issues, and auto-generates evals from real-world failures. Built on OpenTelemetry, self-hostable. ![GitHub Repo stars](https://img.shields.io/github/stars/latitude-dev/latitude-llm?style=social)
 - [ClawMetry](https://github.com/vivekchand/clawmetry): Open-source, zero-config real-time observability dashboard for AI agent runtimes (Claude Code, Codex, Cursor, Hermes and more) with sessions, token and cost analytics, and OTLP ingestion. ![GitHub Repo stars](https://img.shields.io/github/stars/vivekchand/clawmetry?style=social)
+- [Council of AI](https://github.com/CSOAI-ORG/councilof-ai): Independent AI-behaviour measurement. Live 22-axis GSPC board, Ed25519-signed cards, and MCP at https://councilof.ai/mcp. Measurement, not certification. ![GitHub Repo stars](https://img.shields.io/github/stars/CSOAI-ORG/councilof-ai?style=social)
 
 ## Software Development
 
