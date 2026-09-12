@@ -170,6 +170,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Orkas](https://github.com/Orkas-AI/Orkas): Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media; MIT-licensed with bring-your-own model keys. ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)
 - [Ouroboros](https://github.com/razzant/ouroboros): Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 - [5dive](https://github.com/5dive-ai/5dive): Run a company of AI agents on a server you own — named agents on an org chart with a shared backlog, handing off work and pinging your phone only when a human must decide. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
+- [murmur](https://github.com/wine-fall/murmur): Always-on AI radio host for the terminal that picks its own topics, talks, plays music, and answers typed replies in a natural-sounding voice; one host whose memory of the listener grows. Claude Agent SDK brain, fish-speech voice. ![GitHub Repo stars](https://img.shields.io/github/stars/wine-fall/murmur?style=social)
 
 ## Game / Simulation
 
