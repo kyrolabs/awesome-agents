@@ -218,3 +218,5 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Actionbook](https://github.com/actionbook/actionbook): Parallel Action CLI for AI agents. Run 50 actions across 20 sites at once. ![GitHub Repo stars](https://img.shields.io/github/stars/actionbook/actionbook?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright): Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [Webcmd](https://github.com/agentrhq/webcmd): Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles it into deterministic per-site CLI commands. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
