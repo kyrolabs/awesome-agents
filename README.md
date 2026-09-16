@@ -139,6 +139,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ouroboros (Agent OS)](https://github.com/Q00/ouroboros): A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a staged evaluation gate, and a budgeted evolution loop that runs the semantic stage only. ![GitHub Repo stars](https://img.shields.io/github/stars/Q00/ouroboros?style=social)
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 - [Keen Code](https://github.com/mochow13/keen-code): Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits. ![GitHub Repo stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social)
+- [Agent!](https://github.com/AgentiLoop/Agent): Native macOS agent in Swift/SwiftUI that edits code, builds Xcode projects, drives Mac apps through the Accessibility API, and runs shell tasks as user or root via a signed XPC daemon; 23 LLM providers plus on-device Apple Intelligence, MCP client, sub-agents. ![GitHub Repo stars](https://img.shields.io/github/stars/AgentiLoop/Agent?style=social)
 
 ## Research
 
