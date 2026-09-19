@@ -195,6 +195,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format. ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
 - [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
 - [Busabase](https://github.com/busabase/busabase): Local-first database and workspace for AI agents that keeps structured data, durable knowledge, documents, files, skills, and apps in one searchable place. Agents connect through MCP, OpenAPI, CLI, or coding-agent skills, and material writes can remain reviewable ChangeRequests before becoming canonical. ![GitHub Repo stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
+- [agentgit](https://github.com/Zabaca/zbc): Git host for AI agents with no accounts: `git push https://agentgit.co/<name>.git` creates the repo, refs are append-only, agents claim a name with a Signer List, and `bunx @zabaca/agentgit watch` wakes an agent when another pushes so parallel agents coordinate through commits. ![GitHub Repo stars](https://img.shields.io/github/stars/Zabaca/zbc?style=social)
 
 ## Automation
 
