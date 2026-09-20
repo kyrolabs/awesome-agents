@@ -78,6 +78,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for agent tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 
+- [CerebrumKit](https://github.com/islomkhon/CerebrumKit): Self-hosted scaffold for building AI agent apps - an agent is assembled from skills and tools, and both are rows in a database you edit while the app runs, so a change to an agent needs no redeploy. FastAPI + Vue, Postgres or SQLite, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/islomkhon/CerebrumKit?style=social)
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
