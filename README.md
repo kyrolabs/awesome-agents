@@ -77,6 +77,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go): Framework for building stateful AI agents in Go. ![GitHub Repo stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=social)
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for agent tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [hippox](https://github.com/0xhappyboy/hippox): 🦛A reliable, autonomous LLM runtime and driver orchestration engine. Capable of processing natural language and automatically executing OS-native drivers, fundamentally enabling the LLM to truly take over the computer. ![GitHub Repo stars](https://img.shields.io/github/stars/0xhappyboy/hippox?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
@@ -139,6 +140,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ouroboros (Agent OS)](https://github.com/Q00/ouroboros): A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a staged evaluation gate, and a budgeted evolution loop that runs the semantic stage only. ![GitHub Repo stars](https://img.shields.io/github/stars/Q00/ouroboros?style=social)
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 - [Keen Code](https://github.com/mochow13/keen-code): Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits. ![GitHub Repo stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social)
+- [hippoxOS](https://github.com/HippoxHQ/hippoxOS): A native LLM operating system, make LLM the operating system interpretation layer, Features six built-in subsystems. ![GitHub Repo stars](https://img.shields.io/github/stars/HippoxHQ/hippoxOS?style=social)
 
 ## Research
 
