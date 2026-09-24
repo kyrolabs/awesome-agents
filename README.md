@@ -152,6 +152,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AIDE](https://github.com/WecoAI/aideml): AI-Driven Exploration — ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric. ![GitHub Repo stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
 - [Cynative](https://github.com/cynative/cynative):  Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
 - [Kapso](https://github.com/Leeroo-AI/kapso): A self-improving AI software factory (for measurable objectives). \#1 open-source on MLE-Bench; ALE-Bench; RelBench. ![GitHub Repo stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=social)
+- [Jev Social](https://github.com/socai-io/jev-social): Open-source social-media research agent where Jev selects bounded read-only operations across Instagram, TikTok, and LinkedIn; the local socai CLI collects browser evidence and the app streams posts, media, and a cited report. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 
 ## Conversational / General Agents
 
