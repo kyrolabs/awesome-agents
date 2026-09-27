@@ -213,6 +213,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill): Open-source skill and remote MCP server that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps through one reusable setup (Vault, audit, pay-as-you-go). ![GitHub Repo stars](https://img.shields.io/github/stars/Aident-AI/aident-skill?style=social)
+
 ### Browser
 
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
