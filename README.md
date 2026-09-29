@@ -174,7 +174,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Orkas](https://github.com/Orkas-AI/Orkas): Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media; MIT-licensed with bring-your-own model keys. ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social)
 - [Ouroboros](https://github.com/razzant/ouroboros): Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 - [5dive](https://github.com/5dive-ai/5dive): Run a company of AI agents on a server you own. Named agents on an org chart with a shared backlog, handing off work, and you decide the rest on your phone. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
-- [Raven](https://github.com/EverMind-AI/Raven): Open-source host agent that plans complex tasks as DAGs and orchestrates built-in research, coding, design and on-call agents plus third-party agents such as Claude Code, Codex, OpenClaw and Hermes Agent over ACP, CLI or OpenAI-compatible APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
+- [Raven](https://github.com/EverMind-AI/Raven): The Harness of Harnesses, built for recursive self-improvement: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 
 ## Game / Simulation
 
