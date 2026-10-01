@@ -141,6 +141,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Keen Code](https://github.com/mochow13/keen-code): Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits. ![GitHub Repo stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social)
 - [Ordewell](https://github.com/ordewell/ordewell): Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, then runs each task as its own session on the harness you pick per task, with its own model, mode and effort, and accepts a task as done only when its unique completion marker appears in that runner's output. ![GitHub Repo stars](https://img.shields.io/github/stars/ordewell/ordewell?style=social)
 - [Orbi](https://github.com/orbi-build/orbi): Self-hosted autonomous coding agent that takes a labelled GitHub Issue through implementation, an independent review session, merge of the exact reviewed head, and a tagged release. ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)
+- [agent-manager](https://github.com/YoanWai/agent-manager): Terminal UI that runs coding-agent CLIs side by side, each in its own persistent tmux session, with live status, quick prompts, git worktrees and diff review. ![GitHub Repo stars](https://img.shields.io/github/stars/YoanWai/agent-manager?style=social)
 
 ## Research
 
