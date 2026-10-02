@@ -183,6 +183,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 - [Enclave](https://github.com/yuanzui0728/enclave): Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner. ![GitHub Repo stars](https://img.shields.io/github/stars/yuanzui0728/enclave?style=social)
 - [MiroShark](https://github.com/MiroShark/MiroShark): Universal swarm-intelligence engine — drop in a scenario and hundreds of grounded LLM agents simulate Twitter, Reddit, and a prediction market hour-by-hour, with counterfactual branching, per-agent MCP tools, and a public gallery of finished runs. ![GitHub Repo stars](https://img.shields.io/github/stars/MiroShark/MiroShark?style=social)
+- [node-mgba](https://github.com/ARISE-Foundation/node-mgba): Headless Game Boy and GBA emulator for Node.js that lets agents step frames, press buttons, read memory and capture the screen, with a real-time loop for running agents live. ![GitHub Repo stars](https://img.shields.io/github/stars/ARISE-Foundation/node-mgba?style=social)
 
 ## Memory - Knowledge Management
 
