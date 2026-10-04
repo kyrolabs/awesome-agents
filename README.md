@@ -176,6 +176,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ouroboros](https://github.com/razzant/ouroboros): Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 - [5dive](https://github.com/5dive-ai/5dive): Run a company of AI agents on a server you own. Named agents on an org chart with a shared backlog, handing off work, and you decide the rest on your phone. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 - [Raven](https://github.com/EverMind-AI/Raven): The Harness of Harnesses, built for recursive self-improvement: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
+- [ConnectMeGuru](https://github.com/vineetgoyalhuf/connectmeguru-mcp): Official MCP server enabling conversational AI agents to search, purchase, and provision international prepaid travel eSIM data plans across 190+ countries in-chat. ![GitHub Repo stars](https://img.shields.io/github/stars/vineetgoyalhuf/connectmeguru-mcp?style=social)
+
 
 ## Game / Simulation
 
