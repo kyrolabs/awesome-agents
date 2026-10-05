@@ -21,6 +21,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 ## Frameworks
 
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
+- [OpenAmer](https://github.com/openamer/openamer): Open-source Windows-native agent that operates the desktop through filesystem, browser (Chrome DevTools Protocol), terminal and GUI tools. Its five cognition tools run in-process, it self-improves from its own logs, and it coordinates peer-to-peer with other instances (A2A mesh). ![GitHub Repo stars](https://img.shields.io/github/stars/openamer/openamer?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
 - [LlamaIndex](https://github.com/run-llama/llama_index): provides a central interface to connect your LLM's with external data. ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
