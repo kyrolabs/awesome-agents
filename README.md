@@ -20,6 +20,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Frameworks
 
+- [OpenAmer](https://github.com/openamer/openamer): Open-source, local-first AI agent runtime for Windows — background desktop computer-use (screenshots, clicks and typing without stealing your cursor), a 12-subsystem in-process heartbeat, a self-verifying outcome ledger, and an A2A peer mesh where instances talk to each other directly. ![GitHub Repo stars](https://img.shields.io/github/stars/openamer/openamer?style=social)
 - [OpenClaw](https://github.com/openclaw/openclaw): Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation. ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)
 - [Hermes Agent](https://github.com/nousresearch/hermes-agent): The agent that grows with you 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
@@ -142,6 +143,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ordewell](https://github.com/ordewell/ordewell): Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, then runs each task as its own session on the harness you pick per task, with its own model, mode and effort, and accepts a task as done only when its unique completion marker appears in that runner's output. ![GitHub Repo stars](https://img.shields.io/github/stars/ordewell/ordewell?style=social)
 - [Orbi](https://github.com/orbi-build/orbi): Self-hosted autonomous coding agent that takes a labelled GitHub Issue through implementation, an independent review session, merge of the exact reviewed head, and a tagged release. ![GitHub Repo stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social)
 - [agent-manager](https://github.com/YoanWai/agent-manager): Terminal UI that runs coding-agent CLIs side by side, each in its own persistent tmux session, with live status, quick prompts, git worktrees and diff review. ![GitHub Repo stars](https://img.shields.io/github/stars/YoanWai/agent-manager?style=social)
+- [mu](https://github.com/qybaihe/mu): Coding agent built on Pi, with a CLI and a desktop app, where a small, fast judge model (Jev, a local judge or any LLM) makes the routine calls at more than 30 decision points, such as which chunks of a long tool output enter the context, whether a rule-flagged command was asked for, and whether a fetched page or MCP result carries instructions aimed at the model; every verdict is logged locally. ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social)
 
 ## Research
 
