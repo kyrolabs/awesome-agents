@@ -179,6 +179,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Ouroboros](https://github.com/razzant/ouroboros): Self-hosted general-purpose agent with durable identity and memory, reviewed self-modification, specialist subagent swarms, and desktop or headless operation. ![GitHub Repo stars](https://img.shields.io/github/stars/razzant/ouroboros?style=social)
 - [5dive](https://github.com/5dive-ai/5dive): Run a company of AI agents on a server you own. Named agents on an org chart with a shared backlog, handing off work, and you decide the rest on your phone. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 - [Raven](https://github.com/EverMind-AI/Raven): The Harness of Harnesses, built for recursive self-improvement: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
+- [Portable Hermes Agent](https://github.com/aivrar/portable-hermes-agent): Portable Windows desktop build of Hermes Agent with a GUI, 100 tools, local models via LM Studio, TTS, music and ComfyUI extensions, and a workflow engine; no install, Docker or admin rights. ![GitHub Repo stars](https://img.shields.io/github/stars/aivrar/portable-hermes-agent?style=social)
 
 ## Game / Simulation
 
