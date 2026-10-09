@@ -159,6 +159,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Cynative](https://github.com/cynative/cynative):  Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
 - [Kapso](https://github.com/Leeroo-AI/kapso): Long-running agents that optimize AI and Data systems, and learn from every experience. ![GitHub Repo stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=social)
 - [Jev Social](https://github.com/socai-io/jev-social): Open-source social-media research agent where Jev selects bounded read-only operations across Instagram, TikTok, and LinkedIn; the local socai CLI collects browser evidence and the app streams posts, media, and a cited report. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
+- [Research Toolkit](https://github.com/rrrrrredy/research-toolkit): Research methods, workflow tools, and independent review for AI agents producing source-backed reports. ![GitHub Repo stars](https://img.shields.io/github/stars/rrrrrredy/research-toolkit?style=social)
 
 ## Conversational / General Agents
 
