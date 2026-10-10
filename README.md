@@ -77,6 +77,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go): Framework for building stateful AI agents in Go. ![GitHub Repo stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go?style=social)
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for agent tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [Pydantic Deep Agents](https://github.com/vstorm-co/pydantic-deepagents): Python agent framework built on Pydantic AI, with planning, sub-agents, file and shell tools, MCP and optional Docker sandboxing; also ships as a terminal coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
@@ -144,6 +145,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [agent-manager](https://github.com/YoanWai/agent-manager): Terminal UI that runs coding-agent CLIs side by side, each in its own persistent tmux session, with live status, quick prompts, git worktrees and diff review. ![GitHub Repo stars](https://img.shields.io/github/stars/YoanWai/agent-manager?style=social)
 - [mu](https://github.com/qybaihe/mu): Coding agent built on Pi, with a CLI and a desktop app, where a small, fast judge model (Jev, a local judge or any LLM) makes the routine calls at more than 30 decision points, such as which chunks of a long tool output enter the context, whether a rule-flagged command was asked for, and whether a fetched page or MCP result carries instructions aimed at the model; every verdict is logged locally. ![GitHub Repo stars](https://img.shields.io/github/stars/qybaihe/mu?style=social)
 - [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local): Runs the Claude Code agent fully on-device on Apple Silicon through a local MLX server that speaks the Anthropic Messages API, with a tool-call parser for local models' output formats. ![GitHub Repo stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=social)
+- [wmux](https://github.com/openwong2kim/wmux): Desktop workspace for running Claude Code, Codex, Gemini CLI and other CLI agents side by side on Windows and macOS, with up to 8 parallel tasks each in its own git worktree, hunk-level diff adoption, approval gates for agent tool calls, agent-to-agent channels and sessions that survive reboots. ![GitHub Repo stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=social)
+- [ReevesAgents](https://github.com/mertkayacs/reevesagents): Local workspace that runs coding-agent CLIs side by side in tmux, driven from a TUI, a local Web UI, or the CLI, with an opt-in MCP server so one agent can spawn, read, and steer the others. ![GitHub Repo stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social)
 
 ## Research
 
@@ -158,6 +161,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Cynative](https://github.com/cynative/cynative):  Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed. ![GitHub Repo stars](https://img.shields.io/github/stars/cynative/cynative?style=social)
 - [Kapso](https://github.com/Leeroo-AI/kapso): Long-running agents that optimize AI and Data systems, and learn from every experience. ![GitHub Repo stars](https://img.shields.io/github/stars/Leeroo-AI/kapso?style=social)
 - [Jev Social](https://github.com/socai-io/jev-social): Open-source social-media research agent where Jev selects bounded read-only operations across Instagram, TikTok, and LinkedIn; the local socai CLI collects browser evidence and the app streams posts, media, and a cited report. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
+- [Research Toolkit](https://github.com/rrrrrredy/research-toolkit): Research methods, workflow tools, and independent review for AI agents producing source-backed reports. ![GitHub Repo stars](https://img.shields.io/github/stars/rrrrrredy/research-toolkit?style=social)
 
 ## Conversational / General Agents
 
