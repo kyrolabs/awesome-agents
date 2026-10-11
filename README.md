@@ -78,6 +78,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenHuman](https://github.com/tinyhumansai/openhuman): Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social)
 - [Tenuo](https://github.com/tenuo-ai/tenuo): Per-call authorization for agent tools. Each call is checked at the argument level, and authority is traced across delegation chains. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [Pydantic Deep Agents](https://github.com/vstorm-co/pydantic-deepagents): Python agent framework built on Pydantic AI, with planning, sub-agents, file and shell tools, MCP and optional Docker sandboxing; also ships as a terminal coding agent. ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=social)
+- [Chloe](https://chloejs.org/) An opensource Typescript AI agent runtime to build code-first, private and reliable AI Agents. Chloe runs AI agents that chat with you but do their routine work in plain TypeScript, asking a model only where a step needs judgement.
+
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
