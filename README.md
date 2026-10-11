@@ -222,11 +222,11 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ### Browser
 
+- [Skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser workflows with LLMs and computer vision; its agents log in to portals, fill out forms, download files, and extract structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Steel Browser](https://github.com/steel-dev/steel-browser): Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Actionbook](https://github.com/actionbook/actionbook): Parallel Action CLI for AI agents. Run 50 actions across 20 sites at once. ![GitHub Repo stars](https://img.shields.io/github/stars/actionbook/actionbook?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright): Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [Webcmd](https://github.com/agentrhq/webcmd): Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles it into deterministic per-site CLI commands. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
-- [SLICC](https://github.com/ai-ecoverse/slicc): Browser-native agent runtime with a POSIX shell, virtual filesystem, git, and sandboxed parallel sub-agents, driving web apps through the browser session the user is already signed in to. ![GitHub Repo stars](https://img.shields.io/github/stars/ai-ecoverse/slicc?style=social)
 - [socai](https://github.com/socai-io/socai): Open-source browser-use agent for social-media research that reuses a signed-in Chrome session to search and read posts and comments, capture media, and return structured evidence through CLI, TUI, or Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/socai?style=social)
-- [Skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser workflows with LLMs and computer vision; its agents log in to portals, fill out forms, download files, and extract structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
+
