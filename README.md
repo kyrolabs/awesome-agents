@@ -222,6 +222,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ADAS](https://github.com/ShengranHu/ADAS): Automated Design of Agentic Systems ![GitHub Repo stars](https://img.shields.io/github/stars/ShengranHu/ADAS?style=social)
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [RedAmon](https://github.com/samugit83/redamon): Self-hosted AI penetration testing agent built on LangGraph that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests with fixes. ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
+- [Blave Agent](https://github.com/Blave-TW/blave-agent): Open-source desktop workspace where your own Claude Code or Codex turns a trading idea into a backtested strategy, with a permutation test on every backtest, and runs it live on your exchange account. ![GitHub Repo stars](https://img.shields.io/github/stars/Blave-TW/blave-agent?style=social)
 
 ### Browser
 
