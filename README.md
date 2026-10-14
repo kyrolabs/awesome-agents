@@ -235,3 +235,4 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Webcmd](https://github.com/agentrhq/webcmd): Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles it into deterministic per-site CLI commands. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [socai](https://github.com/socai-io/socai): Open-source browser-use agent for social-media research that reuses a signed-in Chrome session to search and read posts and comments, capture media, and return structured evidence through CLI, TUI, or Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/socai?style=social)
 
+- [M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server) - Autonomous HTTP 402 M2M API Gateway, Remote MCP Server & Task Clearinghouse (L402 Bitcoin Lightning & x402 Base/Solana USDC).
