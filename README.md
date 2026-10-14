@@ -224,6 +224,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Giselle](https://github.com/giselles-ai/giselle): Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![Github Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 - [RedAmon](https://github.com/samugit83/redamon): Self-hosted AI penetration testing agent built on LangGraph that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests with fixes. ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 - [OpenConnector](https://github.com/oomol-lab/open-connector): Open-source connector gateway for agents to discover and execute SaaS actions through MCP, HTTP, and OpenAPI, with OAuth/API-key credential management and scoped runtime tokens. ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social)
+- [BotGathering](https://botgathering.com): Open catalog of tested step-by-step playbooks (recipes) for AI agents, with a remote MCP server (https://botgathering.com/mcp) so agents can search, run and report outcomes.
 
 
 ### Browser
