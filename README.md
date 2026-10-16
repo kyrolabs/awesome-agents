@@ -166,6 +166,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Conversational / General Agents
 
+- [QWK ($QWK) Autonomous MEV Infrastructure](https://github.com/chase-tqg/QWIK-MEV-Core) - Autonomous multi-chain EVM MEV execution & smart contract resource escrow agent (`QWKResourceEscrow.sol`) backed by $400,000+ in verified enterprise grants (Google Cloud, NVIDIA, Cloudflare) with MCP, A2A v1.0, and x402 interfaces.
+
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI): LLM training and inference system whose ColossalChat application implements LLM with RLHF ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [RasaGPT](https://github.com/paulpierre/RasaGPT): RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. ![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)
 - [SuperAgent](https://github.com/superagent-ai/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/superagent-ai/superagent?style=social)
@@ -235,4 +237,3 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright): Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [Webcmd](https://github.com/agentrhq/webcmd): Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles it into deterministic per-site CLI commands. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [socai](https://github.com/socai-io/socai): Open-source browser-use agent for social-media research that reuses a signed-in Chrome session to search and read posts and comments, capture media, and return structured evidence through CLI, TUI, or Desktop. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/socai?style=social)
-
