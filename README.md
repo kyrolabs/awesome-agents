@@ -227,6 +227,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 
 ### Browser
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent): Pay-per-call browser automation and stealth scraping settled in Nano (XNO) via x402; run a real browser to search, click and answer a task, or scrape pages (single or up to 100 in parallel). No account or API key.
 
 - [Skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser workflows with LLMs and computer vision; its agents log in to portals, fill out forms, download files, and extract structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents): An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
