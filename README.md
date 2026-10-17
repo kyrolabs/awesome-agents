@@ -149,6 +149,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Claude Code Local](https://github.com/nicedreamzapp/claude-code-local): Runs the Claude Code agent fully on-device on Apple Silicon through a local MLX server that speaks the Anthropic Messages API, with a tool-call parser for local models' output formats. ![GitHub Repo stars](https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=social)
 - [wmux](https://github.com/openwong2kim/wmux): Desktop workspace for running Claude Code, Codex, Gemini CLI and other CLI agents side by side on Windows and macOS, with up to 8 parallel tasks each in its own git worktree, hunk-level diff adoption, approval gates for agent tool calls, agent-to-agent channels and sessions that survive reboots. ![GitHub Repo stars](https://img.shields.io/github/stars/openwong2kim/wmux?style=social)
 - [ReevesAgents](https://github.com/mertkayacs/reevesagents): Local workspace that runs coding-agent CLIs side by side in tmux, driven from a TUI, a local Web UI, or the CLI, with an opt-in MCP server so one agent can spawn, read, and steer the others. ![GitHub Repo stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=social)
+- [Octomind](https://github.com/muvon/octomind): CLI-first AI coding agent runtime in Rust. One binary, any model provider, MCP-native; runs interactively, piped in CI, as a daemon, over WebSocket, or as an ACP agent inside editors. ![GitHub Repo stars](https://img.shields.io/github/stars/muvon/octomind?style=social)
 
 ## Research
 
