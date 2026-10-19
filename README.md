@@ -82,6 +82,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Omnara](https://github.com/omnara-ai/omnara): The open-source managed agent platform: run durable AI agents on any model and any machine, from sandboxes to your own laptop, with MCP, skills, subagents, and human approvals. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API. ![GitHub Repo stars](https://img.shields.io/github/stars/omnara-ai/omnara?style=social)
 
 ## Testing and Evaluation
+- [Agent Factory](https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui) - open-source studio for building, editing and running AI agents. The ready-made QA agents are available in the shared agents-store repo.
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
 - [EvoAgentX](https://github.com/ANative-Lab/EvoAgentX): EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/ANative-Lab/EvoAgentX?style=social)
