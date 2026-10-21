@@ -186,6 +186,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [5dive](https://github.com/5dive-ai/5dive): Run a company of AI agents on a server you own. Named agents on an org chart with a shared backlog, handing off work, and you decide the rest on your phone. ![GitHub Repo stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=social)
 - [Raven](https://github.com/EverMind-AI/Raven): The Harness of Harnesses, built for recursive self-improvement: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 - [Markus](https://github.com/markus-global/markus): Open-source AI workforce platform for building and running AI agent teams, with role-based agents, task delegation, persistent memory, and inter-agent communication. ![GitHub Repo stars](https://img.shields.io/github/stars/markus-global/markus?style=social)
+- [AgenticOS](https://github.com/vstorm-co/agenticos): Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 
 ## Game / Simulation
 
