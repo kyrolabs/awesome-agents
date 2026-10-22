@@ -210,6 +210,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format. ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
 - [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
 - [Busabase](https://github.com/busabase/busabase): Local-first database and workspace for AI agents that keeps structured data, durable knowledge, documents, files, skills, and apps in one searchable place. Agents connect through MCP, OpenAPI, CLI, or coding-agent skills, and material writes can remain reviewable ChangeRequests before becoming canonical. ![GitHub Repo stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
+- [Particles](https://github.com/LinkedParticles/particles-engine-py): When an agent acts on something it remembered, you need to know where that memory came from. Particles keeps every remembered claim with its source, the date it was asserted, and a confidence you re-weight per source, and never overwrites one, so you can replay what the agent believed last month and why it changed. ![GitHub Repo stars](https://img.shields.io/github/stars/LinkedParticles/particles-engine-py?style=social)
 
 ## Automation
 
