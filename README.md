@@ -158,6 +158,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Mixdog](https://github.com/tribgames/mixdog): Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
 - [Octomind](https://github.com/muvon/octomind): CLI-first AI coding agent runtime in Rust. One binary, any model provider, MCP-native; runs interactively, piped in CI, as a daemon, over WebSocket, or as an ACP agent inside editors. ![GitHub Repo stars](https://img.shields.io/github/stars/muvon/octomind?style=social)
 - [oh-my-agent](https://github.com/first-fluke/oh-my-agent): Open-source agent harness that installs into 14 coding-agent runtimes, including Claude Code, Codex CLI and Cursor, keeps its skills once in `.agents/skills/` and links them into each runtime's skill folder, and has an optional Stop hook that runs the project's typecheck, test or lint script before the agent finishes. ![GitHub Repo stars](https://img.shields.io/github/stars/first-fluke/oh-my-agent?style=social)
+- [Preloop](https://github.com/preloop/preloop): Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. ![GitHub Repo stars](https://img.shields.io/github/stars/preloop/preloop?style=social)
 
 ## Research
 
