@@ -194,6 +194,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Raven](https://github.com/EverMind-AI/Raven): The Harness of Harnesses, built for recursive self-improvement: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration. ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social)
 - [Markus](https://github.com/markus-global/markus): Open-source AI workforce platform for building and running AI agent teams, with role-based agents, task delegation, persistent memory, and inter-agent communication. ![GitHub Repo stars](https://img.shields.io/github/stars/markus-global/markus?style=social)
 - [LIA](https://github.com/jgouviergmail/LIA-Assistant): Self-hostable personal AI assistant built with LangGraph, combining email and calendar tools, persistent memory, MCP integration, and human approval flows for actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jgouviergmail/LIA-Assistant?style=social)
+- [ENZO](https://github.com/theguysudo/ENZO): Self-hosted AI workspace that runs entirely on your own provider keys (BYOK) — coding mode with build verification, research, agents, skills and tools (Gmail, Calendar), with a sandboxed runtime for LLM-generated code ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 
 ## Game / Simulation
 
