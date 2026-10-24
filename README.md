@@ -155,6 +155,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Dex](https://github.com/exmergo/dex): Analytics engineering skills for Claude Code, Codex and other agents that explore a warehouse read-only (profiles, PII flags, verified joins), author dbt models and semantic layers as reviewable diffs, and detect schema drift, with cost confirmed before any warehouse spend. ![GitHub Repo stars](https://img.shields.io/github/stars/exmergo/dex?style=social)
 - [Crewly](https://github.com/stevehuang0115/crewly): Open-source platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex or Gemini CLI, with task delegation, shared memory and a live web dashboard of agent terminals. ![GitHub Repo stars](https://img.shields.io/github/stars/stevehuang0115/crewly?style=social)
 - [Mixdog](https://github.com/tribgames/mixdog): Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review. ![GitHub Repo stars](https://img.shields.io/github/stars/tribgames/mixdog?style=social)
+- [Octomind](https://github.com/muvon/octomind): CLI-first AI coding agent runtime in Rust. One binary, any model provider, MCP-native; runs interactively, piped in CI, as a daemon, over WebSocket, or as an ACP agent inside editors. ![GitHub Repo stars](https://img.shields.io/github/stars/muvon/octomind?style=social)
 
 ## Research
 
