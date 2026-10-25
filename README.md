@@ -257,3 +257,5 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Browser Use](https://github.com/browser-use/browser-use): Open-source Python library that lets LLM agents control a browser to navigate, click, type and extract data, on local Chrome or Browser Use cloud browsers. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser): Open-source Chrome/Edge extension where an AI agent completes web tasks in your real, logged-in browser from a side panel; runs several tasks side by side, asks before submitting or deleting anything, and works with cloud or local models. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
