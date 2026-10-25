@@ -161,6 +161,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Preloop](https://github.com/preloop/preloop): Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests. ![GitHub Repo stars](https://img.shields.io/github/stars/preloop/preloop?style=social)
 - [Oh My Hermes](https://github.com/rlaope/oh-my-hermes): Workflow plugin for Hermes Agent adding specialist skills, project memory, and task-specific model and reasoning routing. ![GitHub Repo stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=social)
 - [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work-state for coding agents: presence, claims, messaging and handoffs. ![GitHub Repo stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)
+- [openswarm](https://github.com/surlymochan/openswarm): Quota-aware multi-agent dispatcher that routes coding tasks to the cheapest capable agent (Codex, OpenCode Go, DeepSeek), each running in an isolated git worktree under a hard budget ![GitHub Repo stars](https://img.shields.io/github/stars/surlymochan/openswarm?style=social)
 
 ## Research
 
