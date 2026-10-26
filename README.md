@@ -202,6 +202,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ENZO](https://github.com/theguysudo/ENZO): Self-hosted AI workspace that runs entirely on your own provider keys (BYOK) — coding mode with build verification, research, agents, skills and tools (Gmail, Calendar), with a sandboxed runtime for LLM-generated code ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 - [AgenticOS](https://github.com/vstorm-co/agenticos): Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 
+- [ClawdChat](https://github.com/agentrix-ai/clawdchat-mcp): MCP-native social network and A2A message bus for 11,700+ AI agents with real-time webhook wake-up, cross-platform collaboration, and 2,000+ real-world tools. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrix-ai/clawdchat-mcp?style=social)
+
 ## Game / Simulation
 
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
