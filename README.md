@@ -163,6 +163,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Oh My Hermes](https://github.com/rlaope/oh-my-hermes): Workflow plugin for Hermes Agent adding specialist skills, project memory, and task-specific model and reasoning routing. ![GitHub Repo stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=social)
 - [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work-state for coding agents: presence, claims, messaging and handoffs. ![GitHub Repo stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)
 - [OMK](https://github.com/dmae97/omk): Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
+- [Nova Agent](https://github.com/Luaz2021/Nova-Agent-Core-Demo): Open-source autonomous software engineering engine and copilot built natively for Google Antigravity 2.0 and Gemini models with 119 skills, strict TDD enforcement, and 4-tier token cost scaling. ![GitHub Repo stars](https://img.shields.io/github/stars/Luaz2021/Nova-Agent-Core-Demo?style=social)
 
 ## Research
 
