@@ -165,6 +165,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp): Local-first shared work-state for coding agents: presence, claims, messaging and handoffs. ![GitHub Repo stars](https://img.shields.io/github/stars/Get-Concord-AI/concord-mcp?style=social)
 - [OMK](https://github.com/dmae97/omk): Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
 - [Shelly](https://github.com/RYOITABASHI/Shelly): Open-source AI terminal and agent runtime for Android with a native PTY, bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/RYOITABASHI/Shelly?style=social)
+- [Tares](https://github.com/glassflow/tares): Open-source platform for always-on AI agents. Its software factory for Claude Code runs a crew of Claude Code sessions on your machine (an orchestrator, builders and a reviewer) that takes planned projects from tickets to merged pull requests, keeping every ticket, review and decision for the next session; it also runs an AI SRE that watches your systems. Ships an MCP server, a Claude Code plugin and agent skills. ![GitHub Repo stars](https://img.shields.io/github/stars/glassflow/tares?style=social)
 
 ## Research
 
