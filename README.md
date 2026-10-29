@@ -207,6 +207,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ENZO](https://github.com/theguysudo/ENZO): Self-hosted AI workspace that runs entirely on your own provider keys (BYOK) — coding mode with build verification, research, agents, skills and tools (Gmail, Calendar), with a sandboxed runtime for LLM-generated code ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 - [AgenticOS](https://github.com/vstorm-co/agenticos): Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 - [ShibaClaw](https://github.com/RikyZ90/ShibaClaw): Self-hosted personal AI agent with a built-in WebUI, persistent memory, MCP tools, sub-agent delegation, scheduled automations, and support for local or cloud models. ![GitHub Repo stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=social)
+- [Satori](https://github.com/MetcalfSolutions/Satori): Open-source wisdom companion (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during coding tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/MetcalfSolutions/Satori?style=social)
 
 ## Game / Simulation
 
