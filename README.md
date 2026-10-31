@@ -182,6 +182,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Jev Social](https://github.com/socai-io/jev-social): Open-source social-media research agent where Jev selects bounded read-only operations across Instagram, TikTok, and LinkedIn; the local socai CLI collects browser evidence and the app streams posts, media, and a cited report. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 - [Research Toolkit](https://github.com/rrrrrredy/research-toolkit): Research methods, workflow tools, and independent review for AI agents producing source-backed reports. ![GitHub Repo stars](https://img.shields.io/github/stars/rrrrrredy/research-toolkit?style=social)
 - [Station](https://github.com/dualverse-ai/station): Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
+- [hyperresearch](https://github.com/jordan-gibbs/hyperresearch): Open-source CLI (MIT) that turns Claude Code or Codex into a deep research harness: wide-then-deep source gathering, a persistent markdown vault, and a citation check of every cited claim before the report ships. ![GitHub Repo stars](https://img.shields.io/github/stars/jordan-gibbs/hyperresearch?style=social)
 
 ## Conversational / General Agents
 
