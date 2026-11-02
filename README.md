@@ -168,6 +168,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Most Capable Agent System Prompt](https://github.com/fainir/most-capable-agent-system-prompt): Copy-paste system prompt that has a coding agent build a file-based, self-improving agent system with task graphs, verification, memory, evals and approvals. ![GitHub Repo stars](https://img.shields.io/github/stars/fainir/most-capable-agent-system-prompt?style=social)
 - [nodecode](https://github.com/nodecode-ai/nodecode): A living agent organism in Lisp. It becomes yours and evolves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=social)
 - [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
+- [WhyCodes](https://github.com/whycorporation/whycodes): Open-source coding agent for the terminal in Rust. One native binary for Linux, macOS and Windows; reads, edits and searches code and runs commands through multi-turn tool use with hosted, local or any OpenAI-compatible models, plus MCP and LSP support. ![GitHub Repo stars](https://img.shields.io/github/stars/whycorporation/whycodes?style=social)
 
 ## Research
 
