@@ -166,6 +166,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OMK](https://github.com/dmae97/omk): Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
 - [Shelly](https://github.com/RYOITABASHI/Shelly): Open-source AI terminal and agent runtime for Android with a native PTY, bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/RYOITABASHI/Shelly?style=social)
 - [nodecode](https://github.com/nodecode-ai/nodecode): A living agent organism in Lisp. It becomes yours and evolves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=social)
+- [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 
 ## Research
 
