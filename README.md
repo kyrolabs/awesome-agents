@@ -166,6 +166,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OMK](https://github.com/dmae97/omk): Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes. ![GitHub Repo stars](https://img.shields.io/github/stars/dmae97/omk?style=social)
 - [Shelly](https://github.com/RYOITABASHI/Shelly): Open-source AI terminal and agent runtime for Android with a native PTY, bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/RYOITABASHI/Shelly?style=social)
 - [Most Capable Agent System Prompt](https://github.com/fainir/most-capable-agent-system-prompt): Copy-paste system prompt that has a coding agent build a file-based, self-improving agent system with task graphs, verification, memory, evals and approvals. ![GitHub Repo stars](https://img.shields.io/github/stars/fainir/most-capable-agent-system-prompt?style=social)
+- [nodecode](https://github.com/nodecode-ai/nodecode): A living agent organism in Lisp. It becomes yours and evolves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=social)
+- [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 
 ## Research
 
@@ -182,6 +184,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Jev Social](https://github.com/socai-io/jev-social): Open-source social-media research agent where Jev selects bounded read-only operations across Instagram, TikTok, and LinkedIn; the local socai CLI collects browser evidence and the app streams posts, media, and a cited report. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 - [Research Toolkit](https://github.com/rrrrrredy/research-toolkit): Research methods, workflow tools, and independent review for AI agents producing source-backed reports. ![GitHub Repo stars](https://img.shields.io/github/stars/rrrrrredy/research-toolkit?style=social)
 - [Station](https://github.com/dualverse-ai/station): Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
+- [hyperresearch](https://github.com/jordan-gibbs/hyperresearch): Open-source CLI (MIT) that turns Claude Code or Codex into a deep research harness: wide-then-deep source gathering, a persistent markdown vault, and a citation check of every cited claim before the report ships. ![GitHub Repo stars](https://img.shields.io/github/stars/jordan-gibbs/hyperresearch?style=social)
 
 ## Conversational / General Agents
 
@@ -207,6 +210,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ENZO](https://github.com/theguysudo/ENZO): Self-hosted AI workspace that runs entirely on your own provider keys (BYOK) — coding mode with build verification, research, agents, skills and tools (Gmail, Calendar), with a sandboxed runtime for LLM-generated code ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 - [AgenticOS](https://github.com/vstorm-co/agenticos): Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 - [ShibaClaw](https://github.com/RikyZ90/ShibaClaw): Self-hosted personal AI agent with a built-in WebUI, persistent memory, MCP tools, sub-agent delegation, scheduled automations, and support for local or cloud models. ![GitHub Repo stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=social)
+- [Satori](https://github.com/MetcalfSolutions/Satori): Open-source wisdom companion (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during coding tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/MetcalfSolutions/Satori?style=social)
 
 ## Game / Simulation
 
@@ -231,6 +235,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format. ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
 - [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
 - [Busabase](https://github.com/busabase/busabase): Local-first database and workspace for AI agents that keeps structured data, durable knowledge, documents, files, skills, and apps in one searchable place. Agents connect through MCP, OpenAPI, CLI, or coding-agent skills, and material writes can remain reviewable ChangeRequests before becoming canonical. ![GitHub Repo stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
+- [Mnemosyne](https://github.com/28naem-del/mnemosyne): Local-first memory for AI agents in one SQLite file. Each memory keeps its source evidence, and correcting a source retires the memories recorded as depending on it, with exact replay and bisect in the 3.0 pre-release. TypeScript SDK, stdio MCP server, CLI and HTTP API. ![GitHub Repo stars](https://img.shields.io/github/stars/28naem-del/mnemosyne?style=social)
 
 ## Automation
 
