@@ -185,6 +185,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Research Toolkit](https://github.com/rrrrrredy/research-toolkit): Research methods, workflow tools, and independent review for AI agents producing source-backed reports. ![GitHub Repo stars](https://img.shields.io/github/stars/rrrrrredy/research-toolkit?style=social)
 - [Station](https://github.com/dualverse-ai/station): Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature. ![GitHub Repo stars](https://img.shields.io/github/stars/dualverse-ai/station?style=social)
 - [hyperresearch](https://github.com/jordan-gibbs/hyperresearch): Open-source CLI (MIT) that turns Claude Code or Codex into a deep research harness: wide-then-deep source gathering, a persistent markdown vault, and a citation check of every cited claim before the report ships. ![GitHub Repo stars](https://img.shields.io/github/stars/jordan-gibbs/hyperresearch?style=social)
+- [OpenDraft](https://github.com/federicodeponte/opendraft): Open-source agent system that researches and writes papers, literature reviews and thesis drafts, keeping only citations whose DOI is held by at least two of CrossRef, OpenAlex and Semantic Scholar. ![GitHub Repo stars](https://img.shields.io/github/stars/federicodeponte/opendraft?style=social)
 
 ## Conversational / General Agents
 
