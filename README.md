@@ -169,6 +169,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [nodecode](https://github.com/nodecode-ai/nodecode): A living agent organism in Lisp. It becomes yours and evolves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=social)
 - [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 - [Memdoor](https://github.com/guregodevo/memdoor): Apache-2.0 terminal coding agent in one Go binary that runs coding work as YAML workflows (a graph of steps, each done only when its file exists or its command exits 0, with approval gates and resume), on any provider key, a ChatGPT plan or a local model (Ollama, llama.cpp, vLLM, LM Studio). ![GitHub Repo stars](https://img.shields.io/github/stars/guregodevo/memdoor?style=social)
+- [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines from desktop, phone and web. ![GitHub Repo stars](https://img.shields.io/github/stars/happier-dev/happier?style=social)
+
 
 ## Research
 
