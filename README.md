@@ -254,6 +254,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [RedAmon](https://github.com/samugit83/redamon): Self-hosted AI penetration testing agent built on LangGraph that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests with fixes. ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social)
 - [OpenConnector](https://github.com/oomol-lab/open-connector): Open-source connector gateway for agents to discover and execute SaaS actions through MCP, HTTP, and OpenAPI, with OAuth/API-key credential management and scoped runtime tokens. ![GitHub Repo stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=social)
 - [LazyMind](https://github.com/LazyAGI/LazyMind): Open-source AI Skill Runtime combining reusable knowledge, executable skills, and observable workflows with human review checkpoints and editable artifacts for multi-step tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyMind?style=social)
+- [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent): Lets AI agents see and operate a real iPhone through an ESP32-S3 board that mirrors the screen over AirPlay and acts as a USB mouse and keyboard, with a CLI, MCP server and agent skill. No jailbreak. ![GitHub Repo stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)
 
 
 ### Browser
