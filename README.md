@@ -238,6 +238,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
 - [Busabase](https://github.com/busabase/busabase): Local-first database and workspace for AI agents that keeps structured data, durable knowledge, documents, files, skills, and apps in one searchable place. Agents connect through MCP, OpenAPI, CLI, or coding-agent skills, and material writes can remain reviewable ChangeRequests before becoming canonical. ![GitHub Repo stars](https://img.shields.io/github/stars/busabase/busabase?style=social)
 - [Mnemosyne](https://github.com/28naem-del/mnemosyne): Local-first memory for AI agents in one SQLite file. Each memory keeps its source evidence, and correcting a source retires the memories recorded as depending on it, with exact replay and bisect in the 3.0 pre-release. TypeScript SDK, stdio MCP server, CLI and HTTP API. ![GitHub Repo stars](https://img.shields.io/github/stars/28naem-del/mnemosyne?style=social)
+- [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory): MCP server and CLI that gives coding agents persistent memory over markdown or Obsidian notes, with vector search for entry points and existing wikilinks as the graph in one SQLite file. ![GitHub Repo stars](https://img.shields.io/github/stars/tonydzi/sqlite-graph-memory?style=social)
 
 ## Automation
 
