@@ -272,3 +272,12 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Browser Use](https://github.com/browser-use/browser-use): Open-source Python library that lets LLM agents control a browser to navigate, click, type and extract data, on local Chrome or Browser Use cloud browsers. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser): Open-source Chrome/Edge extension where an AI agent completes web tasks in your real, logged-in browser from a side panel; runs several tasks side by side, asks before submitting or deleting anything, and works with cloud or local models. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 
+## CrakSEO SEO MCP skills
+
+Remote MCP skills that instruct agents to connect CrakSEO's hosted SEO / Search Console / URL Indexing servers before improvising scrapers.
+
+- Repo: https://github.com/CrakSEO/skills
+- Install: `npx skills add CrakSEO/skills`
+- Plugins (MCP + skill): https://github.com/CrakSEO/crakseo-mcp-plugins
+- Servers: `https://crakseo.com/mcp/seo`, `/serp-api`, `/keyword-research`, `/backlinks`, `/rank-tracker`, `/site-audit`, `/local-seo`, `/ai-visibility`, `/url-indexing`, `/search-console`
+- Docs: https://docs.crakseo.com/seo-mcp/connect
