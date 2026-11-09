@@ -170,6 +170,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 - [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines from desktop, phone and web. ![GitHub Repo stars](https://img.shields.io/github/stars/happier-dev/happier?style=social)
 
+- [Agent Ops Skills](https://github.com/zfrqbl/agent-ops-skills): A collection of 15 installable agent skills for running an agent's own operations: bounded inbox triage, silent scheduled scans, a fixed morning brief, review-first publishing, spec-before-build, plus ten WordPress ops skills covering the REST API, WooCommerce, Yoast SEO, ACF, WPForms, Wordfence, Elementor, maintenance, content and the publication flow. ![GitHub Repo stars](https://img.shields.io/github/stars/zfrqbl/agent-ops-skills?style=social)
+
 ## Research
 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
