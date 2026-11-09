@@ -85,6 +85,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Atomic Agents](https://github.com/eigenwise/atomic-agents): Python framework for building agents from small typed parts, built on Instructor and Pydantic, with built-in OpenTelemetry tracing. ![GitHub Repo stars](https://img.shields.io/github/stars/eigenwise/atomic-agents?style=social)
 - [Speakeasy control plane](https://github.com/speakeasy-api/gram): AI control plane for connecting agents to MCP tools through an identity-aware gateway, with role-based access, per-action security policies, and audit logs. ![GitHub Repo stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=social)
 
+- [APX](https://github.com/agentprojectcontext/apx) : Local-first runtime for project-scoped agents, with portable APC project context, multiple model providers and messaging channels.
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
