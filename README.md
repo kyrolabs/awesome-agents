@@ -169,6 +169,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [nodecode](https://github.com/nodecode-ai/nodecode): A living agent organism in Lisp. It becomes yours and evolves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=social)
 - [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 - [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines from desktop, phone and web. ![GitHub Repo stars](https://img.shields.io/github/stars/happier-dev/happier?style=social)
+- [Zhishu Agent](https://github.com/wangguode/zhishu-agent): Production-grade coding agent harness architecture featuring closed-loop self-healing unit test verification, 2-stage `/compact` context compression, and 3-tier sandbox security guards in Java 17 & Python. ![GitHub Repo stars](https://img.shields.io/github/stars/wangguode/zhishu-agent?style=social)
 
 ## Research
 
@@ -213,6 +214,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [ShibaClaw](https://github.com/RikyZ90/ShibaClaw): Self-hosted personal AI agent with a built-in WebUI, persistent memory, MCP tools, sub-agent delegation, scheduled automations, and support for local or cloud models. ![GitHub Repo stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=social)
 - [Satori](https://github.com/MetcalfSolutions/Satori): Open-source wisdom companion (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during coding tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/MetcalfSolutions/Satori?style=social)
 - [career-ops](https://github.com/career-ops-hq/career-ops): AI job search agent for AI coding CLIs that scans company career pages, scores each job against your CV, tailors an ATS-friendly resume and tracks applications; you review and send every application yourself. ![GitHub Repo stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=social)
+- [HardCall](https://github.com/wangguode/hardcall): Open-source full-duplex voice practice cockpit with 52ms real-time barge-in interruptions, post-call speech autopsies, and zero-key web live demo. ![GitHub Repo stars](https://img.shields.io/github/stars/wangguode/hardcall?style=social)
 
 ## Game / Simulation
 
