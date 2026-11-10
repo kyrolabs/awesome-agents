@@ -169,6 +169,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [nodecode](https://github.com/nodecode-ai/nodecode): A living agent organism in Lisp. It becomes yours and evolves over time. ![GitHub Repo stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=social)
 - [UNCUT](https://github.com/Balanov/uncut): MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/Balanov/uncut?style=social)
 - [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines from desktop, phone and web. ![GitHub Repo stars](https://img.shields.io/github/stars/happier-dev/happier?style=social)
+- [Proactive Agent](https://github.com/JerryLiu369/hermes-proactive-agent): Hermes Agent plugin that keeps long chat turns responsive (60s answer-or-delegate reminder, 120s edit/execute pause, 30s foreground terminal auto-detach), briefs each subagent before it starts, stops a subagent repeating the same result, returns an open subagent decision to the main agent, and records delegated tasks in a SQLite ledger. ![GitHub Repo stars](https://img.shields.io/github/stars/JerryLiu369/hermes-proactive-agent?style=social)
 
 ## Research
 
