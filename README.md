@@ -173,6 +173,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines from desktop, phone and web. ![GitHub Repo stars](https://img.shields.io/github/stars/happier-dev/happier?style=social)
 - [Nightshift](https://github.com/orwa-mahmoud/nightshift): MIT plugin for Claude Code, Codex and Cursor that runs long coding work as a shift: a persistent punch list, a Stop-hook gate that rejects premature clock-out, parked decisions in place of blocking questions, recovery of failed sessions, and a receipt per item. ![GitHub Repo stars](https://img.shields.io/github/stars/orwa-mahmoud/nightshift?style=social)
 - [Commonly](https://github.com/Team-Commonly/commonly): Open-source pods where a software team and each person's own coding agents (Claude Code, Codex) share chat and one task board ![GitHub Repo stars](https://img.shields.io/github/stars/Team-Commonly/commonly?style=social)
+- [AgenC Core](https://github.com/tetsuo-ai/agenc-core): Turn any model into a stronger agent. Open source and built to outperform. ![GitHub Repo stars](https://img.shields.io/github/stars/tetsuo-ai/agenc-core?style=social)
 
 ## Research
 
