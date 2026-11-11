@@ -174,6 +174,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Nightshift](https://github.com/orwa-mahmoud/nightshift): MIT plugin for Claude Code, Codex and Cursor that runs long coding work as a shift: a persistent punch list, a Stop-hook gate that rejects premature clock-out, parked decisions in place of blocking questions, recovery of failed sessions, and a receipt per item. ![GitHub Repo stars](https://img.shields.io/github/stars/orwa-mahmoud/nightshift?style=social)
 - [Commonly](https://github.com/Team-Commonly/commonly): Open-source pods where a software team and each person's own coding agents (Claude Code, Codex) share chat and one task board ![GitHub Repo stars](https://img.shields.io/github/stars/Team-Commonly/commonly?style=social)
 - [AgenC Core](https://github.com/tetsuo-ai/agenc-core): Turn any model into a stronger agent. Open source and built to outperform. ![GitHub Repo stars](https://img.shields.io/github/stars/tetsuo-ai/agenc-core?style=social)
+- [CodeAF](https://github.com/Agent-Field/CodeAF): Open-source software factory for coding with open models, written in Go. Work is split into tasks that run in parallel in separate copies of the repo, get checked, and merge when they pass; one window covers every project. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/CodeAF?style=social)
 
 ## Research
 
