@@ -176,6 +176,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgenC Core](https://github.com/tetsuo-ai/agenc-core): Turn any model into a stronger agent. Open source and built to outperform. ![GitHub Repo stars](https://img.shields.io/github/stars/tetsuo-ai/agenc-core?style=social)
 - [CodeAF](https://github.com/Agent-Field/CodeAF): Open-source software factory for coding with open models, written in Go. Work is split into tasks that run in parallel in separate copies of the repo, get checked, and merge when they pass; one window covers every project. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Field/CodeAF?style=social)
 - [Prismor](https://github.com/PrismorSec/prismor): Open-source runtime security for AI coding agents (Claude Code, Codex, Cursor and more). Hooks check every tool call against policy before it runs, mask secrets, block risky packages and egress, front MCP servers with a scanning gateway, and keep an audit trail. ![GitHub Repo stars](https://img.shields.io/github/stars/PrismorSec/prismor?style=social)
+- [Alysis Code](https://github.com/AlysisAi/AlysisCode): Open-source, model-agnostic agent for coding and everyday computer work with sandboxed shell, MCP, skills and scheduled tasks ![GitHub Repo stars](https://img.shields.io/github/stars/AlysisAi/AlysisCode?style=social)
 
 ## Research
 
