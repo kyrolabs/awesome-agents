@@ -85,6 +85,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Atomic Agents](https://github.com/eigenwise/atomic-agents): Python framework for building agents from small typed parts, built on Instructor and Pydantic, with built-in OpenTelemetry tracing. ![GitHub Repo stars](https://img.shields.io/github/stars/eigenwise/atomic-agents?style=social)
 - [Speakeasy control plane](https://github.com/speakeasy-api/gram): AI control plane for connecting agents to MCP tools through an identity-aware gateway, with role-based access, per-action security policies, and audit logs. ![GitHub Repo stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=social)
 - [Sandbox SDK](https://github.com/opencoredev/sandbox-sdk): One TypeScript API for running agent code in sandboxes. Write it once and run it on E2B, Daytona, Vercel Sandbox, Docker and more. ![GitHub Repo stars](https://img.shields.io/github/stars/opencoredev/sandbox-sdk?style=social)
+- [AVA](https://github.com/antvis/AVA): AntV's TypeScript framework for AI agents to query files and databases, reuse business definitions, and generate interactive charts with inspectable queries and results. ![GitHub Repo stars](https://img.shields.io/github/stars/antvis/AVA?style=social)
 
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
