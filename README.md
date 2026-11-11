@@ -272,3 +272,5 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Browser Use](https://github.com/browser-use/browser-use): Open-source Python library that lets LLM agents control a browser to navigate, click, type and extract data, on local Chrome or Browser Use cloud browsers. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)
 - [Nanobrowser](https://github.com/nanobrowser/nanobrowser): Open-source Chrome/Edge extension where an AI agent completes web tasks in your real, logged-in browser from a side panel; runs several tasks side by side, asks before submitting or deleting anything, and works with cloud or local models. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 
+
+- [Kolivri](https://kolivri.com) - All-in-one AI Voice Call Center & CRM platform with sub-second voice agents in 8 languages, persistent cross-call memory, and open-source [MCP server](https://github.com/kolivritech/kolivri-voice-mcp).
