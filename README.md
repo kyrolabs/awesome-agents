@@ -276,6 +276,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [LazyMind](https://github.com/LazyAGI/LazyMind): Open-source AI Skill Runtime combining reusable knowledge, executable skills, and observable workflows with human review checkpoints and editable artifacts for multi-step tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/LazyAGI/LazyMind?style=social)
 - [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent): Lets AI agents see and operate a real iPhone through an ESP32-S3 board that mirrors the screen over AirPlay and acts as a USB mouse and keyboard, with a CLI, MCP server and agent skill. No jailbreak. ![GitHub Repo stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)
 - [Buddy](https://github.com/ghorbelhamdi/buddy-android): Android AI assistant in a floating bubble that lets Claude Code, Codex, OpenCode, Antigravity or Grok read the screen, tap and type on the phone, with approval cards for risky actions. No root, adb or PC. ![GitHub Repo stars](https://img.shields.io/github/stars/ghorbelhamdi/buddy-android?style=social)
+- [VideoDB](https://github.com/video-db/skills): Video tools for AI agents: watch, search, clip and caption video in Claude, ChatGPT or any MCP agent. MIT skills and Claude Code plugin, backed by a hosted MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/video-db/skills?style=social)
 
 
 ### Browser
