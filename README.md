@@ -201,6 +201,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Academic Commercialization Agent](https://github.com/shuxiachai/academic-commercialization-agent): Multi-agent CrewAI pipeline that turns a research paper or topic into a cited commercialization screening report (technology readiness, manufacturing, patents, market); code freezes a validated source registry, the agents cite only from it, and the score is computed in code. ![GitHub Repo stars](https://img.shields.io/github/stars/shuxiachai/academic-commercialization-agent?style=social)
 - [OpenDraft](https://github.com/federicodeponte/opendraft): Open-source agent system that researches and writes papers, literature reviews and thesis drafts, keeping only citations whose DOI is held by at least two of CrossRef, OpenAlex and Semantic Scholar. ![GitHub Repo stars](https://img.shields.io/github/stars/federicodeponte/opendraft?style=social)
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp): Remote MCP server for researching under-400-capacity live-music venues and booking contacts across all 50 US states, DC, and British Columbia.
+
 ## Conversational / General Agents
 
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI): LLM training and inference system whose ColossalChat application implements LLM with RLHF ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
