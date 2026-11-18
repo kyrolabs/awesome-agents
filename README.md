@@ -103,6 +103,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Software Development
 
+- [Irrigator](https://github.com/grainulation/irrigator): Open-source multi-agent orchestration and pipeline runner using isolated git worktrees with sound verification loops and task reviews. ![GitHub Repo stars](https://img.shields.io/github/stars/grainulation/irrigator?style=social)
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT): The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)
 - [OpenHands](https://github.com/OpenHands/OpenHands): 🙌 OpenHands: Code Less, Make More. (formerly OpenDevin), a platform for software development agents powered by AI ![GitHub Repo stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social)
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot): GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion. ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social)
