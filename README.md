@@ -228,6 +228,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Satori](https://github.com/MetcalfSolutions/Satori): Open-source wisdom companion (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during coding tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/MetcalfSolutions/Satori?style=social)
 - [career-ops](https://github.com/career-ops-hq/career-ops): AI job search agent for AI coding CLIs that scans company career pages, scores each job against your CV, tailors an ATS-friendly resume and tracks applications; you review and send every application yourself. ![GitHub Repo stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=social)
 - [kwant](https://github.com/alexsergivan/kwant): Open-source self-hosted team of AI bots in one Rust binary — spaces, @mention handoffs, routines, approvals, any model including local. Alternative to Grok Bot, Claude Duet and OpenAI dots. ![GitHub Repo stars](https://img.shields.io/github/stars/alexsergivan/kwant?style=social)
+- [Mingle](https://github.com/earayu/Mingle): Local-first open-source (MIT) runtime that brings the coding agent you already use (Claude Code, Codex, OpenCode, Kimi Code) into WeChat, Feishu, DingTalk, Slack, Discord, Telegram, GitHub, and iMessage — one agent, one shared `MEMORY.md`, parallel background tasks, no Mingle server. ![GitHub Repo stars](https://img.shields.io/github/stars/earayu/Mingle?style=social)
 
 ## Game / Simulation
 
