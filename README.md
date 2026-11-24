@@ -182,6 +182,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator): Open-source (Apache-2.0) desktop app for macOS, Windows and Linux where an orchestrator agent splits work across 38 coding-agent harnesses (Claude Code, Codex, Cursor and more), each in its own git worktree, with a Kanban board that tracks every PR through CI and review and iOS/Android apps for remote sessions. ![GitHub Repo stars](https://img.shields.io/github/stars/OrchestratorInc/agent-orchestrator?style=social)
 - [Agent Standup](https://github.com/Atoll92/agent-standup): Open-source viewer that shows the Claude Code, Codex and Mistral Vibe sessions on a computer, sub-agents included, as a live animated team call: who is working, who is stuck on a long command, who waits on another agent, who needs you. Reads only the session files the agents already write; VS Code extension, CLI and desktop app. ![GitHub Repo stars](https://img.shields.io/github/stars/Atoll92/agent-standup?style=social)
 
+- [Alook](https://github.com/alookai/alook): Open-source, local-first group chat where people and local coding agents collaborate in shared rooms. ![GitHub Repo stars](https://img.shields.io/github/stars/alookai/alook?style=social)
+
 ## Research
 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
