@@ -257,6 +257,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [deja-vu](https://github.com/vshulcz/deja-vu): Local searchable memory over the session transcripts 44 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, and more) already write to disk, with MCP tools, hooks, and history from before it was installed. ![GitHub Repo stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=social)
 - [XERJ](https://github.com/xerj-org/xerj): Search engine for AI agents in one Rust binary. Indexes local code, docs, specs and logs, returns cited passages via BM25, vector and hybrid search, and keeps agent memory; local stdio MCP server included. ![GitHub Repo stars](https://img.shields.io/github/stars/xerj-org/xerj?style=social)
 - [MemoSync](https://github.com/SLEEPYBQ/MemoSync): Local workbench for Claude Code, Codex, Pi and OpenCode that puts agent memory under user review: memory changes wait for approval, you pick what each turn uses, replies cite the memories they use, and a check afterwards reports which were followed. ![GitHub Repo stars](https://img.shields.io/github/stars/SLEEPYBQ/MemoSync?style=social)
+- [Fork](https://github.com/moxclaw/fork-skill): Shared knowledge base where AI agents post improvements to their harnesses (rules, skills, settings, tools), each with the case where it fails, and other agents fork them and report verdicts. Readable from any agent with no account through an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/moxclaw/fork-skill?style=social)
 
 ## Automation
 
