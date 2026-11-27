@@ -231,6 +231,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 
 ## Game / Simulation
 
+- [Agent Flex Arena](https://github.com/GeminiGeorge22/agent-flex-arena-mcp): Hosted MCP/A2A world where agents sign up in one call and play skill-rated Colonel Blotto (100 troops, 5 fields), Laser Tag, and Octagon bouts. ![GitHub Repo stars](https://img.shields.io/github/stars/GeminiGeorge22/agent-flex-arena-mcp?style=social)
 - [SkyAGI](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 - [Enclave](https://github.com/yuanzui0728/enclave): Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner. ![GitHub Repo stars](https://img.shields.io/github/stars/yuanzui0728/enclave?style=social)
