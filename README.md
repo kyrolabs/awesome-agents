@@ -279,6 +279,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Quarterdeck](https://github.com/shannonbay/Quarterdeck): Persistent goals for Claude Code agents: standing objectives that run on a schedule in a background subagent, propose actions for human approval, and keep memory, work items and run history in local SQLite. ![GitHub Repo stars](https://img.shields.io/github/stars/shannonbay/Quarterdeck?style=social)
 
 
+- [Sol Next](https://github.com/chongyangzhang92-hub/Sol-Next): Open-source Android 10-16/17 & HarmonyOS multimodal AI mobile OS agent that operates apps in a hidden 1:1 background VirtualDisplay (`0.0px` drift), with pure-Rust 16KB JNI kernel, free built-in encrypted DeepSeek + BYOK, 20 languages, Wi-Fi-off persistent wireless debugging, AI anti-scam calling, and a zero-dependency CLI + stdio MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/chongyangzhang92-hub/Sol-Next?style=social)
+
 ### Browser
 
 - [Skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser workflows with LLMs and computer vision; its agents log in to portals, fill out forms, download files, and extract structured data. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
