@@ -88,6 +88,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AVA](https://github.com/antvis/AVA): AntV's TypeScript framework for AI agents to query files and databases, reuse business definitions, and generate interactive charts with inspectable queries and results. ![GitHub Repo stars](https://img.shields.io/github/stars/antvis/AVA?style=social)
 - [Sage](https://github.com/ZHangZHengEric/Sage): MIT-licensed Python agent harness with Desktop and Server hosts, stateful sessions, Skills, MCP, and multi-agent workflows; its evaluation-and-tuning loop keeps versioned candidates for explicit adoption. ![GitHub Repo stars](https://img.shields.io/github/stars/ZHangZHengEric/Sage?style=social)
 
+- [subagent-toolkit](https://github.com/tapiwamakandigona/subagent-toolkit): Minimal single-agent harness for autonomous AI work — one ~1.6k-token protocol file, evidence-gated templates, fresh-context loop, and a CI-enforced context budget. ![GitHub Repo stars](https://img.shields.io/github/stars/tapiwamakandigona/subagent-toolkit?style=social)
+
 ## Testing and Evaluation
 - [Voice Lab](https://github.com/saharmor/voice-lab): A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas. ![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/voice-lab?style=social)
 - [Open-RAG-Eval](https://github.com/vectara/open-rag-eval): an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)
